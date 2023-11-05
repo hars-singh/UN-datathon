@@ -1,0 +1,563 @@
+,OBJECTID,NAMEENG,NAMEAR,CF_PHONE,CF_EMAIL,CF_FAX,CF_POBOX,FACILITYTYPE,FACILITYSUBTYPE,CLASS,HR24,OPENINGHR,CATEGORY,GRADE,SELFREPORTEDSCORECARD,CONCERNSAREA,CONFISCATIONDESTRUCTION,longitude,latitude
+0,1,MEDICINA PHARMACY,صيدلية ميديسينا,(971)-2-6262665,amro.abbas@pharmalink.ae,(971)-2-6261608,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.360116670000025,24.491583330000026
+1,2,SKY COMMUNITY PHARMACY,صيدلية إسكاي كوميونتي,02-6765660,hasseeb@communityhealthonline.com,2-6760880,71437,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.40740966999999,24.495687480000015
+2,3,SULEIMAN MEDICAL CENTER PHARMACY,صيدلية مركز سليمان الطبي,03-7618001,houqani@gmail.com,3-7221376,1887,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.740436999999986,24.257738000000018
+3,4,SWEIHAN HEALTHCARE CENTER PHARMACY,صيدلية مركز سويحان الصحي,03-7462028,ahs@seha.ae,3-7461080,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.32668303999998,24.465281489999995
+4,5,TABARAK NEW PHARMACY L L C,صيدليــة تبـــارك الجديدة ذ م م,02-5633796,haadpf1321@gmail.com,2-5632565,76047,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.69433212000001,24.556129460000022
+5,6,TAHA PHARMACY - L L C,صـيدلية طـــه - ذ م م,02-6343447,admin@tahamedical.com,2-6391190,38672,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37155151000002,24.48073101
+6,7,THE NEW TOWER PHARMACY,صـيدلية البـرج الجـديدة,02-5827271,newtowerpharmacy@gmail.com,2-5834669,11575,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.632921220000014,24.31634330999998
+7,8,WAHEEDA PHARMACY,صـيدلية وهـيدة,02-6420708,waheedahpharmacy@hotmail.com,2-6417226,7346,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.368852619999984,24.477617259999988
+8,9,NEW DAR NOURI PHARMACY,صـيدلية دار نـوري الجـديده,02-6341436,nouri123@emirates.net.ae,2-6341461,26790,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35575867,24.477125170000022
+9,10,NMC PHARMACY - BRANCH 1,صيدلية  أن  أم  سي-  فرع 1,(971)-2-6179269,personnel@nmc.ae,(971)-2-6212120,6222,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.361698149999995,24.482226369999978
+10,11,NMC ROYAL HOSPITAL PHARMACY LLC,صيدلية مستشفى ان ام سي رويال ذم م,(971)-2-6179269,mohammad.darweesh@nmc.ae,(971)-2-6202021,6222,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.571113000000025,24.411761000000013
+11,12,NOOR ALAHLI PHARMACY - BRANCH 4,صيدلية نور الاهلي  - فرع4,2-5668124,noorpharmacybr4@ahaliagroup.ae,2-6320207,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.643640000000005,24.277168000000017
+12,13,OXFORD PHARMACY L.L.C,صيدلية اوكسفورد ذ.م.م,02-4489191,shanavas@omclinics.com,2-4481819,53275,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.41253089999998,24.440504069999974
+13,14,BURJEEL PHARMACY L.L.C. - BRANCH 10,صيدلية برجيل ذ.م.م - فرع 10,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222336,51523,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37913703999999,24.476848599999983
+14,15,REMEDY PHARMACY,صيدلية ريميدي,02-4414418,remedypharmacyauh@gmail.com,2-4414419,4643,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.381707000000006,24.464598000000024
+15,16,SAD PHARMACY,صيدلية سعد,(971)-2-6277332,saadpharmacy@yahoo.com,(971)-2-6274655,2871,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36585808000001,24.492147450000004
+16,17,SALAMATK PHARMACY,صيدلية سلامتك,(971)-2-5588018,slamtacph@gmail.com,(971)-2-5584433,73022,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.525983,24.40751899999998
+17,18,GREEN HILLS PHARMACY,صيدلية جرين هيلز,(971)-2-6785577,greenhills.ad@gmail.com,(971)-2-6787177,133766,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.536603000000014,24.324910999999986
+18,19,HAMEEM PHARMACY,صيدلية حميم,02-5535599,hameempharmacy2013@gmail.com,2-5535544,92947,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37489599999998,24.490879000000007
+19,20,HARLEY STREET PHARMACY L.L.C,صيدلية هارلي استريت ذ.م.م,02-6133999,tarekelali@gmail.com,2-6133888,46689,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.318675989999974,24.47427558999999
+20,21,FIRAS PHARMACY L.L.C,صيدلية فراس ذ م م,02-6666084,firasph@gmail.com,2-6663656,145432,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38096618999998,24.489578250000022
+21,22,IBN SINA PHARMACY L.L.C. - BRANCH 11,صيدلية ابن سينا ذ.م.م - فرع 11,03-7843975,shorouq.h@akigroup.com,3-7843179,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77927199999999,24.273483999999996
+22,23,IBN SINA PHARMACY L.L.C. - BRANCH 16,صيدلية ابن سينا ذ.م.م - فرع 16,02-5864016,bsp.bm@akigroup.com,2-5859787,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.620925,24.312680999999998
+23,24,INPATIENT AMANA HEALTH CARE MEDICAL AND REHABILITATION HOSPITAL LLC PHARMACY,صيدلية أمانة هيلث كير ميديكال أند ريهابليتيشن هوسبيتال ذ.م.م الداخلية,(971)-2-6105999,mrashid@amanahealthcare.com,(971)-2-5580760,110122,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.588234,24.436364000000026
+24,25,INTERNATIONAL PHARMACY - LLC,الصـيدلية الدولية - ذ م م,02-6273579,internationalpharmacy@hotmail.com,2-6261400,945,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35961914000001,24.49203682000001
+25,26,AL SHAMKHA HEALTHCARE CENTER PHARMACY,صيدلية مركز الشامخة الصحي,(971)-2-7116683,ahs@seha.ae,(971)-2-6510531,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.708214999999996,24.382708332999982
+26,27,MADINAT ZAYED HOSPITAL IN PATIENT PHARMACY,الصيدليه الداخليه لمستشفى مدينه زايد,02-8071451,ah_saeed@seha.ae,2-8848183,50018,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,53.68043518000002,23.65849780999997
+27,28,AESTHETIC DERMAL PHARMACY,صيدلية استيتك ديرمال,02-4457100,emad@dccad.ae,2-4457100,72713,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.336712999999975,24.460406999999975
+28,29,AL AHOOD PHARMACY,صـيدلية العهــود,02-4453955,rxgahs666@yahoo.com,2-4453949,29924,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38511276000003,24.460525510000025
+29,30,AL AMIR PHARMACY,صيدلية العامر,02-5836707,rxgahs585@yahoo.com,2-5831695,38120,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.63900374999997,24.29650687999998
+30,31,AL ANOOD PHARMACY,صـيدلية العنـــــود,02-6727196,rxgahs549@yahoo.com,2-6727169,35971,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.372823719999985,24.49386978000001
+31,32,AL MARWA PHARMACY,صـيدلية المــروة,(971)-2-6664200,almarwa.pharmacy@yahoo.com,(971)-2-6664200,44584,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.34833527000001,24.47086048
+32,33,AL MULLA PHARMACY,صـيدلية المــلا,02-4487740,almullapharmacy@hotmail.com,2-4488839,70936,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.403133389999994,24.445669169999974
+33,34,AL MUROJ PHARMACY,صيدلية المروج,02-5857031,almuroj.pharmacy@gmail.com,2-5857030,93708,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.61911600000002,24.300358000000017
+34,35,AL MUWEIJI HEALTHCARE CENTER PHARMACY,صيدلية مركز المويجعي الصحي,03-7461549,ahs@seha.ae,3-7461020,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.71910286000002,24.20703696999999
+35,36,MEDEOR INTERNATIONAL HOSPITAL INPATIENT PHARMACY,صيدلية مستشفى ميديور انترناشيونال الداخلية,02-2222366,saad.lifeline@vpshealth.com,2-2222366,94666,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,55.66241500000001,24.206773999999996
+36,37,MEDICINA PHARMACY - BRANCH 1,صيدلية ميديسينا - فرع 1,02-3042020,amro.abbas@pharmalink.ae,2-6261608,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.44203900000002,24.420511999999974
+37,38,MEDICINA PHARMACY - BRANCH 13,صيدلية ميديسينا - فرع 13,(971)-2-4419287,amro.abbas@pharmalink.ae,(971)-2-4419267,41412,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.37173080000002,24.468292239999982
+38,39,MERMAID PHARMACY W L L,صيدليــة عروس البحـر   ذ م م,02-6663343,smrabusamra@gmail.com,2-6667568,8132,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.34864615999999,24.472810750000008
+39,40,MODERN DAR AL SHIFA PHARMACY - LLC -  MUSSAFAH BRANCH,صيدلية دار الشفاء الحديثة - ذ م م  - فرع المصفح,(971)-2-5557939,musaffah@asterpharmacy.com,(971)-2-5557939,91092,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.51023865000002,24.374193190000028
+40,41,N M C PHARMACY,صيدلية أن أم سي,(971)-2-6179269,mohammad.darweesh@nmc.ae,(971)-2-6212120,6222,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.36109352,24.483837129999984
+41,42,MEDICLINIC PHARMACY - MADINAT ZAYED 2,صيدلية ميديكلينيك - مدينة زايد 2,(971)-2-4066933,Bernil.Salarda@Mediclinic.ae,(971)-2-5598419,46713,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.69789505,23.667500500000017
+42,43,AL SILA PHARMACY,صـيدلية السـلع,02-8722087,haadpf1216@gmail.com,2-8722087,77537,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,51.76383972000002,24.070672039999977
+43,44,AL TADAWI PHARMACY,صيدلية التداوي,02-8844222,phy.madinatzayed@gmail.com,2-8848025,294010,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.72754500000002,23.657392000000016
+44,45,AL WAGAN HOSPITAL OUTPATIENT PHARMACY,صيدلية المرضى الخارجيين بمستشفى الوجن,03-7017718,aassadi@seha.ae,3-7017732,15258,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.56575012000002,23.637324330000013
+45,46,AL WAHDA PHARMACY - LLC - BRANCH,صيدلية الوحدة - ذ م م - فرع,02-5568269,alwahdapharmacy1@gmail.com,2-5568279,2839,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.609281539999984,24.44332886000001
+46,47,ALMANARA PHARMACY ALCORNICHE,صيدلية المنارة الكورنيش,02-6675454,safia@sinamed.ae,2-6675544,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.32894700000003,24.464831000000004
+47,48,ALPHA PHARMACY,صيدلية ألفـا,(971)-2-6440044,alphapharmacy2@gmail.com,(971)-2-6459555,44391,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38323212,24.491628649999996
+48,49,American Center Pharmacy LLC,صيدلية المركز الامريكي ذ م م,(971)-2-4433114,hr2@americancenteruae.com,(971)-2-4433118,108699,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36240005000002,24.461132050000003
+49,50,BAIN AL JUSRAIN PHARMACY,صـيدلية بـين الجسـرين,02-5588842,bjpharma1@gmail.com,2-5588843,92160,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.50442122999999,24.405865670000026
+50,51,BEAUTY TRICK PHARMACY L L C,صيدلية بيوتي تريك ذ.م.م,02-6223477,beaut-pharmacy@hotmail.com,2-6422271,52699,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37332700000002,24.458951000000013
+51,52,BRIGHT POINT PHARMACY LLC,صيدلية برايت بوينت ذ.م.م,02-6179269,jayagopal@nmc.ae,2-6212120,6222,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.393373999999994,24.452447000000006
+52,53,BURJEEL PHARMACY L.L.C - BRANCH 1,صيدلية برجيل ذ.م.م - فرع 1,02-2222336,saad.lifeline@vpshealth.com,2-2222336,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.537577999999996,24.341109000000017
+53,54,CARE PHARMACY,صـيدلية العنايـة,(971)-2-6393955,carepharmuae@gmail.com,(971)-2-6393988,44162,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.372453689999986,24.48659325
+54,55,DAR AL-SHIFAA PHARMACY LLC - BRANCH 2,صيدلية دار الشفاء ذ.م.م - فرع 2,(971)-2-6900900,hr@daralshifaa.net,(971)-2-6416669,2519,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.52387399999998,24.33315700000003
+55,56,SEHA EMIRATES PHARMACY L.L.C,صيدلية صحة الأمارات ذ.م.م,(971)-2-4438999,pr@sehauae.com,(971)-2-4438898,41503,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.383083,24.47090300000002
+56,57,SHIFA AL MADINA PHARMACY,صيدلية شفاء المدينة,03-7684840,alshifaclinic@yahoo.com,3-7684840,1695,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.759567000000004,24.221307000000024
+57,58,TABARAK PHARMACY L L C,صـيدلية تبـارك ذ م م,02-5632596,haadpf1193@gmail.com,2-5632682,76047,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.69399261000001,24.553212169999995
+58,59,TARGET PHARMACY,صـيدلية الهـدف,02-5585130,richardrpeter@gmail.com,2-5584202,11535,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.50493239999997,24.407448769999974
+59,60,TAWAM HOSPITAL OUTPATIENT PHARMACY,صيدلية المرضى الخارجيين بمستشفى توام,03-7075256,sqandil@SEHA.ae,3-7075210,15258,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.64990997000001,24.195940020000023
+60,61,THE SPECIALIST DIABETES TREATMENT & RESEARCH CENTRE - IMPERIAL COLLEGE LONDON DIABETES CENRTE  L.L.C,المركز التخصصي لعلاج و أبحاث السكري - مركز إمبريال كوليدج لندن للسكري - ذ.م.م,(971)-2-4040800,info@icldc.ae,(971)-2-4040800,48338,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.42839814500002,24.420307813000022
+61,62,ULTRA CARE PHARMACY L.L.C,صيدلية التراكير ذ.م.م,(971)-2-4481111,azharnadeem1985@yahoo.com,(971)-2-4482255,127126,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37013625999998,24.462123870000028
+62,63,NEW AL SHUMOO PHARMACY L.L.C,صيدلية الشموع الجديد ذ.م.م,02-8844343,haadpf1229@gmail.com,2-8844382,50414,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.70631218,23.65233231000002
+63,64,NEW AMAREETA PHARMACY,صـيدلية عمريتـا الجـديدة,02-6668500,amritamedicalcenter@gmail.com,2-6654551,651,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.34820746999998,24.476982120000002
+64,65,NMC SPECIALTY HOSPITAL PHARMACY L.L.C (2),صيدلية مستشفى ان ام سي التخصصي  2  ذ.م.م,02-6179269,hospitalauh@nmc.ae,2-6212120,6222,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.36054419999999,24.483381269999995
+65,66,NOOR AL QOUA PHARMACY,صيدلية نور القوع,03-7357119,sajirabdullah@gmail.com,3-7356463,23264,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.43043699999998,23.41406999999998
+66,67,NOOR ALAHLI PHARMACY L.L.C. - BRANCH 1,صيدلية نور الاهلي ذ.م.م - فرع 1,02-8119119,projects@ahaliagroup.ae,2-6267828,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.48974099999998,24.339242000000013
+67,68,Neima Healthcare Center Pharmacy,صيدلية مركز نعمة الصحي,(971)-2-7113711,ahs@seha.ae,(971)-2-7113711,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.71684647000001,24.105012890000012
+68,69,PANORAMA PHARMACY,صيدلية بانوراما,02-4066933,ykhabbaz@alnoorhospital.com,2-5598419,46713,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.460380550000025,24.05666351000002
+69,70,PHARMACY THE SPECIALIST DIABETES TREATMENT AND RESEARCH CENTER (IMPERIAL COLLEGE DIABETES CENTRE ) L.L.C  BRANCH,صيدلية المركز التخصصي لعلاج وأبحاث السكري ( مركز امبريال كوليدج لندن للسكري )ذ.م.م - فرع,(971)-3-7464950,info@icldc.ae,(971)-3-7464981,222464,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.65039825000002,24.19577885000001
+70,71,POINT CARE PHARMACY,صيدلية بوينت كير,(971)-2-5641927,pointcaresamha@gmail.com,(971)-2-5641923,5198,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.779687000000024,24.68205899999998
+71,72,RUWAIS HOSPITAL PHARMACY,صيدلية مستشفى الرويس,02-7071278,wasaleh@adnoc.com,2-6664739,898,Pharmacy,24 Hr Pharmacy,Public,Yes,,,,,,,52.64669608999998,24.08408356000001
+72,73,HADI PHARMACY,صـيدلية هــــادي,(971)-2-0000000,a111943@emirates.net.ae,(971)-2-0000000,91,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37467957000001,24.466728209999985
+73,74,HAFEET PHARMACY,صـيدلية حــفيت,03-7829505,hafeetpharmacy@gmail.com,3-7829505,65120,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.69229317000003,24.148117070000012
+74,75,HANI PHARMACY,صـيدلية هـــاني,(971)-2-6778501,hani.pharmacy@yahoo.com,(971)-2-6723678,44391,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36992644999998,24.494934080000007
+75,76,Emirates International Hospital Pharmacy - In-Patient,صيدلية مستشفى الامارات الدولي الداخلية,(971)-3-7637777,emirnet@emirates.net.ae,(971)-3-7636555,18088,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,55.722768780000024,24.234060290000002
+76,77,HEALTH FIRST PHARMACY - BRANCH 10,صيدلية هيلث فيرست - فرع 10,02-5549056,nourramadan@planetme.ae,2-5549055,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.46072006000003,24.34289837
+77,78,HEALTH FIRST PHARMACY - BRANCH 11,صيدلية هيلث فيرست - فرع 11,04-7016033,nourramadan@planetme.ae,3-7804233,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.64033599999999,24.218083999999976
+78,79,FIRST CURE PHARMACY,صيدلية فيرست كيور,02-6434588,store@firstcuregroup.com,2-5520632,148712,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.56286699999998,24.296723999999983
+79,80,IBN HAYAN PHARMACY,صيدلية  ابن حيان,02-6315663,Haytham_e@gulfdrug.com,2-6333052,621,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.368679050000026,24.471630100000027
+80,81,IBN SINA PHARMACY L.L.C. - BRANCH 14,صيدلية ابن سينا ذ.م.م - فرع 14,02-4916435,bsp.marasi@akigroup.com,2-4916438,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.334081000000026,24.451134000000025
+81,82,IBN SINA PHARMACY L.L.C. - BRANCH 9,صيدلية ابن سينا ذ.م.م - فرع 9,02-6395241,shorouq.h@akigroup.com,2-6395246,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38874700000002,24.50138099999998
+82,83,IN-PATIENT PHARMACY -MEDICLINIC HOSPITALS L.L.C. -- BRANCH 1,صيدلية داخلية - مستشفيات ميديكلينيك -- فرع 1,(971)-3-7667666,naser.othman@alnoorhospital.ae,(971)-3-7647479,14444,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,55.76755714000001,24.22427558999999
+83,84,KHALID BIN AL WALEED PHARMACY,صـيدلية خـالد بن الوليـد,02-6744661,walid.pharmacy@yahoo.com,2-6744108,3032,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.372592929999996,24.490646360000028
+84,85,SHEIKH KHALIFA MEDICAL CITY URGENT CARE CENTER PHARMACY,صيدلية مدينة الشيخ خليفة الطبية لمركزالرعاية الطارئة,2-4170211,ryoussif@seha.ae,2-6653474,51900,Pharmacy,24 Hr Pharmacy,Public,Yes,,,,,,,54.365573944000005,24.47093572900002
+85,86,BURJEEL PHARMACY L.L.V - BRANCH 5,صيدلية برجيل ذ.م.م - فرع 5,02-2222366,saad.lifeline@vpshealth.com,2-2222363,73048,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.386472000000026,24.46518900000001
+86,87,almaqam pharmacy,صيدلية المقام,3-7681188,almaqamph@yahoo.com,3-7681681,17733,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.62908936000002,24.184480670000028
+87,88,LUMIERE PHARMACY LLC,صيدلية لوميير ذ م م,02-4455041,bsp.lp@akigroup.com,2-4455025,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38297,24.476741000000004
+88,89,ABDULLA PHARMACY,صـيدلية عـبداللـه,03-7216444,abdulla.phy@gmail.com,3-7216443,69579,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.75536346000001,24.190066339999987
+89,90,ABU DHABI PHARMACY,صيدلية ابوظبي,02-6772577,AD_Pharmacy@hotmail.com,2-6778872,38116,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.375640869999984,24.484142299999974
+90,91,AL  MANARA  PHARMACY -  BRANCH 11,صيدلية المنارة – فرع 11,02-6269448,safia@sinamed.ae,2-6269449,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.43906700000002,24.43395400000003
+91,92,AL AHLIA NATIONAL PHARMACY LLC,صيدلية الاهليه الوطنيه ذ م م,(971)-2-8119191,ahliamed@emirates.net.ae,(971)-2-5530658,2419,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.52372100000002,24.367354999999975
+92,93,AL AIN PHARMACY- LLC,صـيدلية العــين - ذات مسئولية محدودة,(971)-3-7655120,info@alain-pharmacy.com,(971)-3-7655121,1667,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,55.53714943,24.52223778000001
+93,94,AL AMAZON PHARMACY,صيدلية الأمزون,02-6784944,ragaeyalgendy@yahoo.com,2-6784944,44375,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36967850000002,24.49373627
+94,95,AL DEWAN PHARMACY,صـيدلية الديــوان,03-7556113,aldewanpharmacy@gmail.com,3-7556119,24775,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,55.73497391000001,24.225219729999992
+95,96,AL KARAMA PHARMACY L L C,صيدلية الكرامة ذ م م,02-4457100,emad@dccad.ae,2-4457100,72713,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.369361879999985,24.468038560000025
+96,97,AL KHALDIYA PHARMACY,صـيدلية الخــالدية,(971)-2-0000000,fadhil.albadi2014@gmail.com,(971)-2-0000000,30940,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.34576797,24.47043418999999
+97,98,AL MANARA NEW  PHARMACY,صـيدلية المنارة الجديدة,(971)-2-6815080,aneermen@hotmail.com,(971)-2-6816993,3084,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.34257889000003,24.469749449999995
+98,99,AL MANARA PHARMACY -BRANCH 2,صيدلية المنارة - فرع 2,2-6814645,aneermen@hotmail.com,2-6814644,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.49141400000002,24.40892100000002
+99,100,AL MANARA PHARMACY CAPITAL MALL,صيدلية المنارة الكابيتال مول,02-4447643,deltamed@delta-uae.com,2-4446742,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53057100000001,24.37524400000001
+100,101,AL MARINA PHARMACY-L.L.C.,صـيدلية المارينــا-ذ.م.م,(971)-2-6339722,mariamed@emirates.net.ae,(971)-2-6339724,37790,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.365905759999976,24.48739624000001
+101,102,AL MUSHRIF PHARMACY W L L,صـيدلية المشــرف -  ذ م م,02-4461614,almushrefpharmacy@gmail.com,2-4450649,25438,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.380714420000004,24.458776469999975
+102,103,MEDICLINIC PHARMACY AL MUSAFFAH,صيدلية ميديكلينيك المصفح,(971)-2-4066933,Bernil.Salarda@Mediclinic.ae,(971)-2-5598419,46713,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53330993999998,24.330414770000004
+103,104,LAN CASTER PHARMACY - BRANCH 3,صيدلية لانكستر - فرع 3,(971)-3-7324050,yassir@bowling-city.com,(971)-3-7324080,80079,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.80023,24.746211000000017
+104,105,LANDMARK PLAZA PHARMACY,صـيدلية لانـد مـارك بـلازا,02-6729400,landmarkplaza748@gmail.com,2-6729500,46333,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.375766750000025,24.49911689999999
+105,106,LEADERS PHARMACY,صيدلية ليدرز,(971)-2-5529957,leadersph@mail.com,(971)-2-5529957,46099,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.520108600000015,24.37271770000001
+106,107,LIFE CARE INTERNATIONAL PHARMACY LLC - BRANCH 1,صيدلية لايف كير العالمية ذ م م - فرع 1,02-2222366,saad.lifeline@vpshealth.com,2-2222363,133500,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.521203000000014,24.36070000000001
+107,108,LLH HOSPITAL PHARMACY AL MUSAFFAH,صيدلية مستشفى ال ال اتش المصفح,02-2222222,saad.lifeline@vpshealth.com,2-2222222,92313,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.516410829999984,24.37876319999998
+108,109,MEDICINA GULF PHARMACY,صيدلية ميديسينا الخليج,02-4483454,amro.abbas@pharmalink.ae,2-6261608,41412,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.415298459999974,24.438865659999976
+109,110,MEDICLINIC PHARMACY - ALAIN - BRANCH 4,صيدلية ميديكلينيك - العين - فرع 4,(971)-3-7667666,naser.othman@alnoorhospital.ae,(971)-3-7647479,14444,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,55.768020630000024,24.222841259999996
+110,111,NATION HOSPITAL INPATIENT PHARMACY,صيدلية داخلية -مستشفى نيشن,(971)-2-2011820,mohamed.yasin@thenationhospital.com,(971)-2-4435494,2651,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.36474800000002,24.46454399999999
+111,112,NATURAL LIFE PHARMACY LLC,صيدلية ناتشيورال لايف ذ م م,(971)-2-5535548,SAJEEV@LIFE-ME.COM,(971)-2-5535528,71246,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.524407999999994,24.33233100000001
+112,113,NAWAF PHARMACY,صـيدلية نـــواف,03-7616137,nawafpharmacy@gmail.com,3-7616343,89368,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.68825912,24.243394850000016
+113,114,NEIMA PHARMACY,صـيدلية نعمــة,03-7684840,neimapharm@yahoo.com,3-7684840,16295,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.62752341999999,24.184762949999993
+114,115,AL RAHA HOSPITAL PHARMACY LLC,صيدلية مستشفى الراحة ذ.م.م,02-6330440,majid@alrahahospital.com,2-6312601,8119,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.36997222999997,24.489532469999972
+115,116,AL RUWAIS PHARMACY,صيدلية الرويــس,02-8774367,yabacker@yahoo.co.in,2-8775311,12203,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,52.64543151999999,24.08464527000001
+116,117,AL SALAMA HOSPITAL PHARMACY INPATIENT L.L.C,صيدلية مستشفى السلامة الدخلية ذ.م.م,(971)-2-6711440,haadsec@alsalamahospital.com,(971)-2-6711330,46266,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.37631988999999,24.499420170000008
+117,118,AL SENAEYA PHARMACY,صـيدلية الصنــاعية,03-7657105,tourani@emirates.net.ae,3-7668619,14063,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77330589000002,24.22066307
+118,119,AL SHIFAA PHARMACY,صـيدلية الشفــاء,03-7641418,alshifaph@yahoo.com,3-7648611,1021,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.769350050000014,24.221641540000007
+119,120,ALAHLYA GRAND PHARMACY,صيدلية جراند الاهلية,02-4498379,brothers_pharmacy@yahoo.com,2-4498382,130736,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.40180587999998,24.44697474999998
+120,121,ALIYA PHARMACY L.L.C,صيدلية علياء ذ.م.م,(971)-2-6341327,aliya_pharmacy@yahoo.com,(971)-2-6228310,8189,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36097526999998,24.485401149999973
+121,122,ALMANARA PHARMACY - YAS MALL,صيدلية المنارة - ياس مول,02-6814644,safia@sinamed.ae,2-6814645,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.60882700000002,24.488796999999977
+122,123,ALMANARA PHARMACY ALMUROOR,صيدلية المنارة المرور,02-4416011,aneermen@hotmail.com,2-6263010,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.43906800000002,24.433952999999974
+123,124,MEDICLINIC HOSPITALS  L.L.C - BRANCH2 - INPATIENT PHARMACY,مستشفيات ميديكلينيك ذ.م.م - فرع2 - الصيدلية الداخلية,(971)-2-4066933,Bernil.Salarda@Mediclinic.ae,(971)-2-5598419,48481,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.461635590000014,24.417179110000006
+124,125,ARZANA PHARMACY,صـيدلية ارزنـــة,03-7556181,arzanapharmacy@yahoo.com,3-7556179,13850,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.74516677999998,24.218834879999974
+125,126,Acacia pharmacy,صيدلية اكاسيا,03-7666415,rabuazab@yahoo.com,3-7666442,69252,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.75900268999999,24.22448730000002
+126,127,BANGASH PHARMACY - LLC,صيدلية بنكش ذ م م,02-5834217,farhan2001ae@yahoo.com,2-5834517,55687,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.64797973999998,24.28251266000001
+127,128,BOOTS AL MUROUR PHARMACY,صيدلية بووتس المرور,(971)-2-6958269,kayed.elsaadi@alshaya.com,(971)-4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.439754489999984,24.433779720000018
+128,129,BURJEEL HOSPITAL IN-PATIENT PHARAMCY,صيدلية مستشفى برجيل الداخلية,02-2222366,saad.lifeline@vpshealth.com,2-2222366,7400,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.380855999999994,24.479467999999997
+129,130,BURJEEL PHARMACY L.L.C - BRANCH 6,صيدلية برجيل ذ.ذ.م - فرع 6,02-2222366,saad.lifeline@vpshealth.com,2-2222363,73048,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.374277000000006,24.471765000000005
+130,131,Babil Pharmacy L.L.C,صيدلية بـابـل ذ.م.م,(971)-2-6397800,pr@sehauae.com,(971)-2-6397789,42528,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.368249890000016,24.491573329999994
+131,132,DIALYSIS CENTER PHARMACY,صيدلية مركز غسيل الكلى,03-7074605,mabumandil@seha.ae,3-7075210,15258,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.65089999999998,24.196199999999976
+132,133,SUHAIL PHARMACY,صـيدلية ســهيل,3-7321588,suhailpharmacyalain@gmail.com,3-7321588,16731,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.74400902000002,24.588876719999973
+133,134,SUMER PHARMACY,صيدلية سومر,02-5636309,sumerpharmacy@gmail.com,2-5636312,45183,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.677072529999975,24.638254169999982
+134,135,UNIVERSAL HOSPITAL PHARMACY L L C - BRANCH 3,صيدلية مستشفى يونيفيرسال ذ م م - فرع 3,02-5558674,haad@universalhospitals.com,2-5535013,5056,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.50205399999999,24.36658799999998
+135,136,VIVID PHARMACY LLC,صيدلية فيفيد ذ م م,02-5546259,vividpharmacyllc@gmail.com,2-5546730,90862,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53629699999999,24.34030200000001
+136,137,ZANBAQ AL MADINA PHARMACY L.L.C,صيدلية زنبق المدينة ذ.م.م,(971)-2-5504333,hr.mammc@gmail.com,(971)-2-5504331,94100,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.48958699999997,24.34571599999998
+137,138,NOOR ALAHLI PHARMACY - BRANCH 2,صيدلية نور الاهلي - فرع 2,(971)-2-5522309,noorpharmacybr2@ahaliagroup.ae,(971)-2-5530658,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.530077000000006,24.34343899999999
+138,139,OASIS HOSPITAL PHARMACY,صـيدلية مسـتشفى الواحــة,(971)-2-7131111,govrelations@oasishospital.org,(971)-2-7131111,1016,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,55.75986481000001,24.206824299999994
+139,140,SARHAD PHARMACY,صيدلية سرحد,02-5551429,sarhad.pharmacy@yahoo.com,2-6428820,8698,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.519135000000006,24.377354000000025
+140,141,GULF DIAGNOSTIC CENTRE HOSPITAL PHARMACY -W L L,صـيدلية مستشفى مركـز الخلـيج للتشخيص - ذ.م.م,2-6658084,imran.ghulam@gdc-hospital.com,2-4177222,30702,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.36351013000001,24.44657516000001
+141,142,HEALTH FIRST PHARMACY - BRANCH 15,صيدلية هيلث فيرست - فرع 15,(971)-2-6219720,ahmedwahabaly@planetme.ae,(971)-2-6219720,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.620925,24.312680999999998
+142,143,HEALTH FIRST PHARMACY -BRANCH 8,صيدلية هيلث فيرست - فرع 8,02-5822180,nourramadan@planetme.ae,2-5822170,9690,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.62912560000001,24.296636579999983
+143,144,HOME HEALTH PHARMACY,صـيدلية بيت الصـحة,(971)-3-7630025,imran@peaceworldgroups.com,(971)-3-7631233,1885,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.72139168000001,24.236783979999984
+144,145,IBN RUSHD PHARMACY LLC,صــيدلية ابن رشـــد ذ م م,(971)-2-4457727,hhosari@hotmail.com,(971)-2-4459299,53705,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.379402159999984,24.461725230000013
+145,146,IBN SINA PHARMACY L.L.C. - BRANCH 3,صيدلية ابن سينا ذ.م.م - فرع 3,02-5562140,bsp.khcity@akigroup.com,2-5562142,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.56602478000002,24.419633869999984
+146,147,INPATIENT PHARMACY/CAMBRIDGE MEDICAL AND REHABILITATION CENTER –BRANCH 1,الصيدلية الداخلية لمركز كامبريدج للطب وإعادة التأهيل / فرع 1,(971)-2-5104100,daoud@cmrc.ae,(971)-2-5104101,222279,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.63716699999998,24.35091799999998
+147,148,SHEIKH KHALIFA MEDICAL CITY ER PHARMACY,صيدلية الطوارىء لمدينة الشيخ خليفة الطبية,2-8192180,ryoussif@skmc.ae,2-8192135,51900,Pharmacy,24 Hr Pharmacy,Public,Yes,,,,,,,54.366596000000015,24.469670000000008
+148,149,LULU KHALIDIYAH PHARMACY -L.L.C.,صيدلية خالدية اللولو - ذ م م,02-6354440,haadpf1484@gmail.com,2-6354441,129125,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.351665500000024,24.47010707999999
+149,150,LUMIERE PHARMACY L.L.C - BRRANCH 1,صيدلية لوميير ذ م م - فرع 1,02-6788111,katrina.cruz@lumiereclinic.com,2-4455450,34027,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.67092600000001,24.523678000000018
+150,151,ADCO MEDICAL CENTRE PHARMACY,صيدلية مركز أدكو الطبي,02-6043080,aalmarshoodi@adnoc.ae,2-6043080,270,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.34374236999997,24.473516459999985
+151,152,AIN AL KHALEEJ HOSPITAL IN PATIENT PHARMACY,صيدلية مستشفى عين الخليج الداخلية,03-7133333,hospalkhal@gmail.com,3-7133300,88206,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,55.72427800000003,24.245965000000012
+152,153,AL AFDAL PHARMACY,صيدلية الأفضل,02-6788588,alafdal.pharmacy@yahoo.com,2-6788256,131465,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37311362999998,24.492479319999973
+153,154,AL AHLI HOSPITAL COMPANY LLC - BRANCH 1 INPATIENT PHARMACY,شركة المستشفي الأهلي ذ م م - فرع 1 صيدلية المرضي الداخلية,02-8119119,ahaliamed@emirates.net.ae,2-8119119,2419,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.524249,24.362850999999978
+154,155,AL AHRAM PHARMACY,صـيدلية الأهـرام,02-6795199,alahram@mail.com,2-6795199,43236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36756516000003,24.497243879999985
+155,156,AL AIN CROMWELL PHARMACY,صيدلية العين كرومويل,03-7990000,haad@alaincromwell.com,3-7990000,222088,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.564160000000015,24.232597999999996
+156,157,AL AIN FERTILITY CENTER PHARMACY LLC,صيدلية مركز العين للاخصاب ذ.م.م,03-7024005,Sdaldayeh@yahoo.co.uk,3-7024044,253,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.72242499999999,24.246160999999972
+157,158,AL BARZA PHARMACY,صـيدلية الـبرزة,02-6659172,albarza_pharmacy@hotmail.com,2-6663127,108940,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.354028700000015,24.476284029999988
+158,159,AL FURQAN PHARMACY,صيدلية الفرقان,(971)-2-6440277,alfurqan-ph@hotmail.com,(971)-2-6440077,4048,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.384473000000014,24.48978699999998
+159,160,AL HUDA PHARMACY,صـيدلية الهــدى,03-7224046,al_huda_pharmacy@yahoo.com,3-7224046,80674,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.75533485,24.194093699999996
+160,161,AL MAARED PHARMACY,صيدلية المعيرض,(971)-2-0000000,almaaredpharmacy@gmail.com,(971)-2-0000000,93148,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.52187300000003,24.359583999999984
+161,162,AL MANARA PHARMACY - BRANCH 6,صيدلية المنارة - فرع 6,02-6664332,afrah@delta-uae.com,2-6664326,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.43465800000001,24.522493999999995
+162,163,AL MANARA PHARMACY-KHALIFA CITY,صيدلية المناره-مدينة خليفة,02-6814644,safia@sinamed.ae,2-6814645,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.575612999999976,24.40069299999999
+163,164,AL NADA PHARMACY,صـيدلية النـدى,02-6426477,pharmacyalnada@gmail.com,2-6428820,26994,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.49196243,24.349644660000024
+164,165,AL NAHDA PHARMACY L L C,صيدلية النهضة - ذ.م.م,02-6333307,ghifar@hotmail.com,2-6343678,54620,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.353965759999994,24.487358089999987
+165,166,AL NASR PHARMACY - LLC,صيدلية النصر - ذ م م,03-7655771,nasrpharmacy@gmail.com,3-7656770,1468,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.772363659999996,24.221725460000016
+166,167,AL NIYADAT HEALTHCARE CENTER PHARMACY,صيدلية مركز النيادات الصحي,(971)-3-7461607,ahs@seha.ae,(971)-3-7461025,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.790111000000024,24.213977
+167,168,AL NOOR HOSPITAL PHARMACY - MARAWAH,صيدلية مستشفى النور - مروح,(971)-2-4066933,yazankhabbaz@gmail.com,(971)-2-5598419,46713,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,52.25778200000002,23.970017999999982
+168,169,MEDEOR 24X7 HOSPITAL IN-PATIENT PHARMACY,صيدلية مستشفى ميديور 7X24 الداخلية,02-2222336,saad.lifeline@vpshealth.com,2-2222336,94666,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.369845,24.480381000000023
+169,170,LIFE CARE INTERNATIONAL PHARMACY L.L.C.,صيدلية لايف كير العالمية ذ.م.م,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222366,47166,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.626510619999976,24.252505299999996
+170,171,MEDEOR INTERNATIONAL PHARMACY L.L.C.,صيدلية ميديور انترناشيونال ذ.م.م,03-2222222,saad.lifeline@vpshealth.com,3-2222222,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.663928,24.225107999999977
+171,172,LLH HOSPITAL AL MUSAFFAH IN-PATIENT PHARMACY,صيدلية مستشفى ال ال اتش المصفح الداخلية,02-2222366,saad.lifeline@vpshealth.com,2-2222366,94666,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.516389000000004,24.37873400000001
+172,173,LLH HOSPITAL PHARMACY L.L.C,صيدلية مستشفى ال ال اتش ذ م م,(971)-2-2222366,saad.lifeline@gmail.com,(971)-2-2222366,94666,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.36489104999998,24.487705230000017
+173,174,MEDICINA ALFALAH PHARMACY,صيدلية ميديسينا الفلاح,02-6262665,amro.abbas@pharmalink.ae,2-6261608,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.739795000000015,24.443495999999982
+174,175,MEDICINA PHARMACY - BRANCH 10,صيدلية ميديسينا - فرع 10,(971)-2-3042091,amro.abbas@pharmalink.ae,(971)-2-6261608,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.59053899999998,24.411576000000025
+175,176,MEDICINE PLUS PHARMACY L.L.C,صيدلية مدسن بلس ذ.م .م,(971)-2-0000000,medicineplus2020@gmail.com,(971)-2-0000000,113864,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37838744999999,24.47261715000002
+176,177,MEDICLINIC PHARMACY - ALAIN,صيدلية ميديكلينيك - العين,(971)-3-7667666,naser.othman@alnoorhospital.com,(971)-3-7647479,14444,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.768020630000024,24.222841259999996
+177,178,MUBARAK PHARMACY,صـيدلية مبــارك,(971)-3-7642978,m.medicalcentre@yahoo.com,(971)-3-7642972,15488,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.765392299999974,24.222904210000024
+178,179,MYZYAD PHARMACY,صـيدلية مــزيد,(971)-3-7635444,ajmawi@yahoo.com,(971)-3-7829188,66986,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.73658752,24.20161343000001
+179,180,AL RAHMA PHARMACY,صـيدلية الرحـمة,(971)-2-6343495,alrahmaphy@yahoo.com,(971)-2-6343458,35591,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.358312609999984,24.479738240000017
+180,181,AL SAADA PHARMACY,صـيدلية السـعادة,02-6278313,alsaadapharmacy@yahoo.com,2-6278313,126835,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.3763237,24.493380549999983
+181,182,AL YARMOUK PHARMACY L.L.C.,صيدليه اليرموك. ذ.م.م,02-6424061,alyarmoukpharmacyllc@gmail.com,2-6424061,33552,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.372169489999976,24.478278160000002
+182,183,ALAIN PHARMACY - (LLC) - BRANCH 5,صيدلية العين - ذات مسئولية محدودة - فرع 5,(971)-3-7669919,m.nazzal@alain-pharmacy.com,(971)-3-7669918,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.701254000000006,24.11068899999998
+183,184,AMBASSADOR PHARMACY,صـيدلية  امبـاسـادور,02-6337993,pharmacyambassador@gmail.com,2-6315660,974,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36771011000002,24.488656040000023
+184,185,ARABIAN PHARMACY WLL,الصـيدلية العــربية  ذ.م.م,2-6669620,arabianpharmacy1@gmail.com,2-6666041,2068,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36024857000001,24.46235274999998
+185,186,ASTER PHARMACIES GROUP LLC - BRANCH OF ABU DHABI 1,مجموعة صيدلية استر ش ذ م م - فرع ابوظبي 1,02-6437625,pr@asterpharmacy.com,2-6437625,91092,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.371365000000026,24.47888999999998
+186,187,ASTER PHARMACY LLC,صيدلية استر ذ م م,(971)-2-5529395,farmacia@asterpharmacy.com,(971)-2-5529397,96078,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.530315400000006,24.342834470000014
+187,188,AVENUE PHARMACY,صيدلية أفنيو,03-7214443,alharmodi@gmail.com,3-7212255,66665,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.67764090999998,24.19738196999998
+188,189,Al Zia Pharmacy - L.L.C,صـيدلية الضـــياء - ذ م م,02-5522201,drzia67@yahoo.com,2-5522205,13111,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.531358720000014,24.324125289999984
+189,190,BAIN AL QASRAIN PHARMACY,صيدلية بين القصرين,02-4469300,amro.abbas@pharmalink.ae,2-6261608,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.43633599999998,24.418153000000018
+190,191,BETTER LIFE PHARAMCY L.L.C.,صيدلية الحياة السعيدة - ذ.م.م,02-6262666,ahaliamed@emirates.net.ae,2-6267828,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35515785000001,24.48894118999999
+191,192,BOOTS ABU DHABI MALL PHARMACY,صيدلية بووتس أبوظبي مول,02-6958119,kayed.elsaadi@alshaya.com,2-4437167,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38268799999997,24.495765000000006
+192,193,BOOTS DALMA MALL PHARMACY,صيدلية بووتس دلما مول,(971)-2-6120780,kayed.elsaadi@alshaya.com,(971)-4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.52350200000001,24.33376099999998
+193,194,BURJEEL HOSPITAL PHARMACY LLC - BRANCH 1,صيدلية مستشفى برجيل ذ.م.م - فرع 1,02-2222366,saad.lifeline@vpshealth.com,2-2222366,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.380855,24.479381999999987
+194,195,BURJEEL PHARMACY AL MARINA LLC,صيدلية برجيل المارينا ذ.م.م,02-2222366,saad.lifeline@vpshealth.com,2-2222366,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.31943100000001,24.476908999999978
+195,196,BURJEEL PHARMACY L.L.C-BRANCH 2,صيدلية برجيل ذ.م.م-فرع 2,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222366,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53790855,24.37315368999998
+196,197,CITY TAWAM PHARMACY,صيدلية مدينة توام,03-7676530,francis_uae@hotmail.com,3-7676530,16731,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.64638518999999,24.193016049999983
+197,198,COUNTRY PHARMACY,صـيدلية البلـد,02-6441840,COUNTRYPHARMACYAD@GMAIL.COM,2-6448798,53820,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37915039000001,24.49516772999999
+198,199,DAR AL SHIFAA PHARMACY L.L.C,صـيدلية دار الشفــاء ذ.م.م,(971)-2-6900900,hr@daralshifaa.net,(971)-2-6416669,2519,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.381599429999994,24.478459359999988
+199,200,ELYZEE PHARMACY LLC,صيدليه إليزيه ذ.م.م,(971)-2-5664299,sikendar@elyzeemc.com,(971)-2-6672065,62932,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.336145999999985,24.458229000000017
+200,201,SEA CITY PHARMACY,صيدلية بحر المدينة,02-5516801,seacitypharmacy@gmail.com,2-5528801,8745,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.485184000000004,24.36054999999999
+201,202,SHEIKH KHALIFA MEDICAL CITY PHARMACY - INPATIENT,صيدلية مدينة الشيخ خليفة الطبية,02-8190000,ryoussif@skmc.ae,2-6102000,51900,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.36476517,24.468635559999996
+202,203,SMART PHARMACY - L L C,صيدلية الذكي ذ م م,(971)-2-5592461,smtpharmacy@gmail.com,(971)-2-5592460,31986,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53296852,24.327590939999993
+203,204,SOFITEL PHARMACY,صيدلية سوفيتل,03-7676439,info@alain-pharmacy.com,3-7672439,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.65727234000002,24.19757462000001
+204,205,THE AMERICAN SURGECENTER PHARMACY L.L.C.,صيدلية المركز الأمريكي الجراحي ذ.م.م.,(971)-2-4430909,kastoun@hotmail.com,(971)-2-4433415,93880,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36338805999998,24.46005439999999
+205,206,THUHFA AL ANDALUS PHARMACY OWNED BY JABER JASEM ALMHEIRI - SOLE PROPRIETORSHIP L.L.C.,صيدلية تحفة الاندلس لمالكها جابر جاسم المهيري - شركة الشخص الواحد ذ م م,02-5522262,hrmc10@gmail.com,2-5531333,30520,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53473853999998,24.327056879999986
+206,207,YATEEM PHARMACY,صيدلية يتيم,02-6666571,amrhelmi@yateemeye-center.ae,2-6665038,929,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.560316,24.398245999999972
+207,208,ZAMZAM PHARMACY,صـيدلية زمــزم,(971)-3-7215554,zamzam2_pharmacy@yahoo.com,(971)-3-7215133,17441,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.76430511000001,24.191530230000012
+208,209,NEW AL AIN PHARMACY - L L C,صـيدلية العـين الجـديدة - ذ م م,(971)-3-7554440,m.nazzal@alain-pharmacy.com,(971)-3-7554414,1667,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,55.73090172000002,24.224021909999976
+209,210,NEW LAND MARK PHARMACY,صيدلية لاند مارك الجديدة,02-6316886,nlm20012@rediffmail.com,2-6316882,46333,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35922622999999,24.486349109999992
+210,211,NEWCASTLE PHARMACY,صيدلية نيوكاسل,(971)-2-5837123,nasir@newcastle.ae,(971)-2-5530341,3607,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.63465600000001,24.34722499999998
+211,212,OASIS HOSPITAL OUTPATIENT PHARMACY,صيدلية مستشفى الواحة الخارجية,03-7131102,govrelations@oasishospital.org,3-7131044,1016,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,55.75982299999998,24.206732999999986
+212,213,BURJEEL PHARMACY L.L.C - BRANCH 11,صيدلية برجيل ذ.ذ.م - فرع 11,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222336,51523,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.565635680000014,24.420801159999996
+213,214,RASHED PHARMACY,صيدلية راشد,03-7645338,reshi134@hotmail.com,3-7646323,65098,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77639389000001,24.216382029999977
+214,215,SADD MAAREB PHARMACY,صـيدلية ســد مــــأرب,02-5832520,sajidchemist101@yahoo.com,2-5833266,11535,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.63508034,24.29187965
+215,216,SAS AL-NAKHAL  PHARMCY,صيدلية  ساس النخل,02-7071725,mfabdulla@adnoc.com,2-6664739,898,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.50419998000001,24.419481280000014
+216,217,HANADI PHARMACY,صـيدلية هنــادي,(971)-3-7351400,hanadyphy1993@gmail.com,(971)-3-7351400,21725,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.56506347999999,23.639353749999998
+217,218,HEALTH FIRST PHARMACY - BRANCH 12,صيدلية هيلث فيرست - فرع 12,02-6746989,nourramadan@planetme.ae,2-6745579,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.71671600000002,24.446307999999988
+218,219,HEALTH FIRST PHARMACY - BRANCH 7,صيدلية هيلث فيرست - فرع 7,04-2955013,nourramadan@planetme.ae,2-4494209,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.45204163,24.42326355
+219,220,HEALTH FIRST PHARMACY- BRANCH 9,صيدلية هيلث فيرست - فرع 9,02-5577611,nourramadan@planetme.ae,2-5577622,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.574161530000026,24.438938140000005
+220,221,HEALTH TIME PHARMACY,صيدلية هيلث تايم,(971)-2-0000000,aljasari.07@hotmail.com,(971)-2-0000000,1111,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.62966799999998,24.259566000000007
+221,222,HEALTHWAY PHARMACY,صيدلية  هيلث  واي,02-5521249,wajdi.healthway@gmail.com,2-5524129,148711,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.63037000000003,24.297518000000025
+222,223,GHIYATHI PHARMACY,صـيدلية غيــاثي,(971)-2-8741797,gayapharma@yahoo.com,(971)-2-8741797,77637,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,52.80978775,23.842798230000028
+223,224,IBN SINA PHARMACY L.L.C. - BRANCH 12,صيدلية ابن سينا ذ.م.م - فرع 12,02-6585203,bsp.paragon@akigroup.com,2-6215970,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.39417900000001,24.491105000000005
+224,225,IBN SINA PHARMACY L.L.C. - BRANCH 15,صيدلية ابن سينا ذ.م.م - فرع 15,02-5651587,shorouq.h@akigroup.com,2-5651584,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.73980799999998,24.458217999999988
+225,226,TOP CARE PHARMACY- BRANCH 1,صيدلية قمة العناية - فرع 1,02-6665131,topcarem@emirates.net.ae,2-6665132,40490,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.49029451400003,24.34048054499999
+226,227,IBN SINA PHARMACY L.L.C. - BRANCH 7,صيدلية ابن سينا ذ.م.م - فرع 7,02-5868724,bsp.biniyas@akigroup.com,2-5868591,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.620925,24.312680999999998
+227,228,IDEAL PHARMACY L.L.C,صيدلية ايديل ذ. م.م,(971)-2-5511786,idealpharmacy@hotmail.com,(971)-2-5510583,47121,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.51172700000001,24.347470999999985
+228,229,INPATIENT PHARMACY/CAMBRIDGE MEDICAL AND REHABILITATION CENTRE LLC,الصيدلية الداخلية لمركز كامبريدج للطب وإعادة التأهيل ذ م م,03-7027500,daoud@cmrc.ae,3-7027501,222279,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,55.680972,24.23047600000001
+229,230,Madinat Mohamed Bin Zayed Healthcare Center Pharmacy,صيدلية مركز مدينة محمد بن زايد الصحي.,02-8113811,ahs@seha.ae,2-8113811,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.55746666700003,24.332859999999982
+230,231,MAFRAQ HOSPITAL PHARMACY - IN-PATIENT,صيدلية مستشفى المفرق,02-5011111,lhuntley@mafraqhospital.ae,2-5011111,2951,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.613161090000006,24.329317090000018
+231,232,ADVANCE CURE PHARMACY L.L.C,صيدلية أدفانس كيور ذ م م,2-4100911,ahamoutta@cure.ae,2-4100914,61887,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.34922028,24.459247590000018
+232,233,ADVANCED AL AIN PHARMACY L L C,صيدلية العين المتطورة ذ م م,03-7227626,m.nazzal@alain-pharmacy.com,3-7227627,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.775833130000024,24.217233659999977
+233,234,AL AHLIA CENTRAL PHARMACY,الصـيدلية الاهليـة المركزيـة,02-6269545,ahliamed@emirates.net.ae,2-6269545,2419,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.359861369999976,24.487859730000025
+234,235,AL AHLIA PHARMACY,الصـيدلية الاهليـة,02-4486276,ahliya1@hotmail.com,2-4487553,3032,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.40180587999998,24.44697474999998
+235,236,AL AIN AL AHALIA PHARMACY,صيدليه العين الاهليه,3-7559990,ahliamed@emirates.net.ae,3-7555997,83339,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.75679398,24.225338939999972
+236,237,AL BASMA PHARMACY,صيدلية البسمة,02-5831515,basma-ph@hotmail.com,2-5831515,93934,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.663793999999996,24.287060999999994
+237,238,AL BAYAN PHARMACY,صـيدلية  البيــان,3-7515566,albayanpharmacy@yahoo.com,3-7516679,15435,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.76541328000002,24.221057889999997
+238,239,AL BUSTAN PHARMACY,صيدلية  البستان,02-5560123,info.albustanphy@gmail.com,2-5560023,108879,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.601978299999985,24.40671157999998
+239,240,AL GHADEER PHARMACY - LLC,صـيدلية  الغدير - ذ م م,(971)-2-4463453,alghader@emirates.net.ae,(971)-2-4463453,75032,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38080215000002,24.465148929999998
+240,241,AL HAKEEM LAND PHARMACY,صيدلية أرض الحكيم,2-6669665,alhakeem_07@yahoo.com,2-6669650,34913,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.34684752999999,24.469314580000002
+241,242,AL HILI PHARMACY,صـيدلية الهيــــلي,03-7622600,hilipharmacy@gmail.com,3-7622600,14937,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.76751899999999,24.263357159999998
+242,243,AL JAHILY PHARMACY,صيدلية الجاهلي,03-7619455,pharmacyalain@gmail.com,3-7619455,84002,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.75625609999997,24.212882999999977
+243,244,AL KHALEEJ PHARMACY - LLC,صـيدلية الخـليج - ذ م م,(971)-3-7644842,khaleej84@gmail.com,(971)-3-7519842,15464,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77504348999997,24.218451500000015
+244,245,AL MANARA AL BAHIA PHARMACY,صيدلية المنارة-الباهية,02-5630020,aneermen@hotmail.com,2-5635059,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.671402,24.524482999999975
+245,246,AL MANARA PHARMACY,صـيدلية المنـارة,02-6664332,safia@sinamed.ae,2-6664326,3084,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.360877990000006,24.491258619999996
+246,247,AL MANARA PHARMACY - AL AIN BRANCH,صيدلية المنارة - فرع,03-7519443,safia@sinamed.ae,3-7516670,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.78213310000001,24.22244453000002
+247,248,AL MANARA PHARMACY -BRANCH 3,صيدلية المنارة - فرع 3,02-4416011,afrah@delta-uae.com,2-4416010,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.523236,24.33259700000002
+248,249,AL MARINA PHARMACY LLC - BRANCH 1,صيدلية المارينا ذ م م - فرع 1,02-6339722,mariamed@emirates.net.ae,2-6339724,37790,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.501525000000015,24.354071999999974
+249,250,LAN CASTER PHARMACY - BRANCH 2,صيدلية لانكستر - فرع 2,03-7804499,yassir@bowling-city.com,3-7612244,80079,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.65105399999999,24.14737100000002
+250,251,LLH PHARMACY LLC,صيدلية ال ال اتش ذ م م,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222363,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.364911000000006,24.487897999999973
+251,252,MEDICINA PHARMACY -BRANCH 7,صيدلية ميديسينا فرع 7,02-3042020,amro.abbas@pharmalink.ae,2-6261608,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.491341999999975,24.39862099999999
+252,253,NATIONAL REHABILITATION CENTRE PHARMACY,صيدلية المركز الوطني للتأهيل,(971)-2-3060000,info@nrc.com,(971)-2-3060111,55001,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.59854999999999,24.43686100000002
+253,254,AL TAIF PHARMACY,صيــدلية الطـــائف,02-5527057,aboirfan_13@hotmail.com,2-5523388,133790,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53091620999999,24.326349259999972
+254,255,AL RAJAA PHARMACY,صــيدلية الرجــــاء,(971)-3-7217626,nero.yoyo2004@hotmail.com,(971)-3-7215133,83581,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.762943269999994,24.189656259999992
+255,256,AL TAKAMUL PHARMACY,صيدلية التكامل,2-6770910,barouda@yahoo.com,2-6770910,110615,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53211974999999,24.337499620000017
+256,257,AL RIDA PHARMACY,صـيدلية الرضـا,02-6766125,redhapharmacy@ahaliagroup.ae,2-6766125,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37484549999999,24.483760829999994
+257,258,AL THURAYYA PHARMACY,صـيدلية الثريــا,02-6427827,althuraya2008@gmail.com,2-6427828,46333,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37847137,24.48011398
+258,259,AL SALAMAT PHARMACY,صـيدلية  الســلامات,03-7835737,albayanpharmacy@yahoo.com,3-7835838,15435,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.58923340000001,24.20895575999998
+259,260,AL TAHANI PHARMACY L.L.C,صيدلية التهانى ذ.م.م,(971)-2-6343438,admin@tahamedical.com,(971)-2-6336414,26751,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37130546999998,24.480646130000025
+260,261,AL WAHDA PHARMACY,صـيدلية الوحدة,2-5630383,alwahdapharmacybahiya@gmail.co,2-5630215,2839,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.66138458,24.515010829999994
+261,262,ALMANARA PHARMACY BOUTIK MALL,صيدلية المنارة بوتيك مول,(971)-3-7229679,BoutikMall@manarapharma.ae,(971)-3-7644117,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.40772800000002,24.49571500000002
+262,263,ALMANARA PHARMACY- AL BAWADI MALL,صيدلية المنارة - البوادي مول,02-6814644,deltamed@delta-uae.com,2-6814645,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.807518000000016,24.160433000000012
+263,264,ALSAROOJ PHARMACY,صيدلية الصاروج,3-7518332,francis_uae@hotmail.com,3-7646323,16731,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.775695799999994,24.217445370000007
+264,265,BAB AL MADINA PHARMACY,صيدلية باب المدينة,02-5545648,babalmadinaph@yahoo.com,2-5545620,25537,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.52058099999999,24.350531999999987
+265,266,BEHAVIORAL SCIENCES PAVILION  PHARMACY,صيدلية جناح العلوم السلوكية,02-8190000,ryoussif@skmc.ae,2-6104662,51900,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.365392680000014,24.473012919999974
+266,267,BOOTS AL RAHA  PHARMACY,صيدلية بووتس الراحة,02-5577650,kayed.elsaadi@alshaya.com,4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.56655884000003,24.43249321000002
+267,268,BOOTS AL SHAMKHA MALL PHARMACY,صيدلية بووتس الشامخة مول,02-4926702,KAYED.ELSAADI@ALSHAYA.COM,4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.722661000000016,24.387126000000023
+268,269,BOOTS YAS MALL PHARMACY,صيدلية بووتس ياس مول,02-4926597,kayed.elsaadi@alshaya.com,4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.61007999999998,24.489146000000005
+269,270,BURJEEL PHARMACY AL SHAMKHA LLC,صيدلية برجيل الشامخة ذ.م.م,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222366,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.722661000000016,24.387126000000023
+270,271,BURJEEL PHARMACY L.L.C - BRANCH 7,صيدلية برجيل ذ.م.م - فرع 7,02-2222366,saad.lifeline@vpshealth.com,2-2222363,73048,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37298012000002,24.470548629999996
+271,272,CITY PHARMACY COMPANY - W L L - BRANCH 1,شركة صيدلية المدينة -ذ م م - فرع 1,(971)-2-6323016,cityphrm@emirates.net.ae,(971)-2-6327147,2098,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.46309200000002,24.413748999999996
+272,273,CLEVELAND CLINIC ABU DHABI IN-PATIENT PHARMACY,الصيدلية الداخلية كليفلاند كلينك أبوظبي,02-5019659,onaqbi@mubadala.ae,2-5019659,45005,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.38798600000001,24.49761799999999
+273,274,COSMESURGE & EMIRATES CLINICS FOR ONE DAY SURGRY PHARMACY L.L.C.,صيدلية كوزمسيرج وعيادات الامارات لجراحة اليوم الواحد ذ.م.م,(971)-2-4466648,haad@emirateshospital.ae,(971)-2-6652077,30907,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.37384033000001,24.4596138
+274,275,DREAM PHARMACY L L C,صــيدلية دريــم ذ م م,02-0000000,dreampharmacy@hotmail.com,2-0000000,61626,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.354492189999974,24.477247239999997
+275,276,SPECIALIZED MEDICAL CARE HOSPITAL PHARMACY,صيدلية مستشفى العناية الطبية التخصصي,(971)-3-7552291,medicare@emirates.net.ae,(971)-3-7551436,59189,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,55.75775146000001,24.214690210000015
+276,277,SWEIHAN PHARMACY,صـيدلية سـويحان,03-7347172,sweihan_pharmacy@yahoo.com,3-7347172,15435,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.330596920000005,24.462741849999986
+277,278,TAIBAH ALAIN PHARMACY -LLC,صـيدلية طـيبة العــين ذ.م.م,(971)-3-7544088,insurance@alain-pharmacy.com,(971)-3-7545557,15325,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,55.737304689999974,24.227865220000012
+278,279,UM GHAFA PHARMACY L.L.C.,صيدلية ام غافة ذ م م,(971)-3-7822656,asmaa-650@hotmail.com,(971)-3-7822656,83305,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.866397860000006,24.09164333000001
+279,280,UNIQUE AL AHALIA PHARMACY - BRANCH 1,صيدلية النادر الاهلية - فرع 1,(971)-2-6352775,projects@ahaliagroup.ae,(971)-2-6336087,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36155500000001,24.487075000000004
+280,281,ZAYED MILITARY HOSPIAL - INPATIENT PHARMACY,صيدلية المرضى المقيمين - مستشفى زايد العسكري,02-4445000,admin@dms.mil.ae,2-4445595,3740,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.42953699999998,24.421198000000004
+281,282,ZAYED MILITARY HOSPITAL - OUTPATIENT PHARMACY,صيدلية العيادات الخارجية - مستشفى زايد العسكري,02-4445000,admin@dms.mil.ae,2-4445535,3740,Pharmacy,24 Hr Pharmacy,Public,Yes,,,,,,,54.42951900000003,24.421127000000013
+282,283,NEW ABU DHABI PHARMACY L.L.C,صـيدلية أبوظـبي الجـديدة ذ.م.م,2-6777625,ahliamed@emirates.net.ae,2-6760288,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.3735714,24.482240680000018
+283,284,NEW AL SHAM PHARMCY LLC,صيدلية الشام الجديدة ذ م م,02-6262080,newalshampharmacy@yahoo.com,2-6262480,48394,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36574553999998,24.49389076
+284,285,NEW NATIONAL MEDICAL CENTRE PHARMACY,صـيدلية المركـز الطـبي الوطـني الجـديد,02-5520100,alaa.mohammad@nationalhospital.ae,2-5520101,30666,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.53211974999999,24.337499620000017
+285,286,OASIS PHARMACY L.L.C,صيدلية الواحة ذ.ذ.م,03-7642333,oasisphrmcy@gmail.com,3-7642212,15101,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77713394,24.215175629999976
+286,287,SAMA AL AIN PHAMACY L L C,صيدلية سما العين ذ م م,03-7619858,info@alain-pharmacy.com,3-7619859,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.743831,24.22865300000001
+287,288,GRAND PHARMACY L.L.C,الصيدلية الكبرى ذ م م,02-6768666,grandphr@yahoo.com,2-6766669,44609,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.370908740000004,24.49083710000002
+288,289,EXPRESS GHAYATHI PHARMACY,صيدلية اكسبرس غياثى,02-8740121,expressgayathi@gmail.com,2-8740121,77637,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,52.803878,23.915179000000023
+289,290,HEALTH FIRST PHARMACY,صيدلية هيلث فيرست,02-6219720,nourramadan@planetme.ae,2-6219780,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.42522300000002,24.537723000000028
+290,291,HEALTH FIRST PHARMACY - BRANCH 1,صيدلية هيلث فيرست - فرع 1,04-7016033,nourramadan@planetme.ae,3-7669569,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.76291275,24.221211429999983
+291,292,FALAJ HAZZAA PHARMACY,صيدليه  فلج هزاع,03-7806111,sultanac@eim.ae,3-7806662,15484,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.708469390000005,24.175902370000017
+292,293,FARAH PHARMACY L L C,صـيدلية فــرح ذ م م,03-7670728,gehantarek@hotmail.com,3-7630120,59267,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.73968887000001,24.24228954
+293,294,HEALTH FIRST PHARMACY - BRANCH 4,صيدلية هيلث فيرست - فرع 4,02-6666427,nourramadan@planetme.ae,2-6655131,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35097694000001,24.474283220000018
+294,295,HEALTH PLUS PHARMACY L L C,صيدلية هيلث بلاس  ذ . م . م,02-6655422,SMSOLEMAN@UEMS.AE,2-6655902,60991,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36129699999998,24.445367999999974
+295,296,FUTURE PHARMACY BRANCH 1,صيدلية المستقبل فرع 1,02-5595112,futurepharmacybr1@gmail.com,2-5599730,52571,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53299900000002,24.327822000000026
+296,297,HKMAT AL AIN  PHARMACY - CO L L C,صيدلية حكمة العين - ذ م م,(971)-2-6411225,m.nazzal@alain-pharmacy.com,(971)-2-6411215,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.764389040000026,24.222230910000007
+297,298,HOPE PHARMACY LLC,صيدلية هوب ذ م م,02-5552687,hopepharmacyauh@gmail.com,2-5552415,38849,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.60068100000001,24.285207000000014
+298,299,HORIZONS PHARMACY,صـيدلية الافــاق,(971)-2-6780078,horizons.pharmacy2020@gmail.com,(971)-2-6780907,44584,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37660217000001,24.50106334999998
+299,300,IBN SINA PHARMACY L.L.C. - BRANCH 2,صيدلية ابن سينا ذ.م.م - فرع 2,03-7620605,bsp.jimi@akigroup.com,3-7625603,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.72702788999999,24.244087219999983
+300,301,IBN SINA PHARMACY L.L.C. - BRANCH 6,صيدلية ابن سينا ذ.م.م - فرع 6,02-5512138,delmamallff@akigroup.com,2-5512360,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.52374268,24.333050730000025
+301,302,INPATIENT PHARMACY - NMC PROVITA INTERNATIONAL MEDICAL CENTER L.L.C,صيدلية داخلية - مركز ان ام سي بروفيتا العالمي الطبي ذ م م,(971)-2-6121800,m.uzair@provita-me.com,(971)-2-5571031,62635,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.58705600000002,24.42557099999999
+302,303,INPATIENT PHARMACY- PROVITA INTERNATIONAL MEDICAL CENTER LLC - BRANCH ALAIN,الصيدلية الداخلية لمركز بروفيتا العالمي الطبي ذ م م - فرع العين,(971)-3-7044900,m.uzair@provita-me.com,(971)-3-7044901,222076,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,55.795285999999976,24.343434000000002
+303,304,ROOTS PHARMACY L.L.C,صيدلية رووتس ذ.م.م,(971)-3-7377168,myselfuae@gmail.com,(971)-3-7377168,88054,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.534969330000024,24.336488719999977
+304,305,JUNAID PHARMACY L.L.C,صيدلية جنيد ذ.م.م,02-8822844,jpharmacy2005@gmail.com,2-8822845,132005,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.79931259,23.132724759999974
+305,306,KINGS CLINICS PHARMACY - LLC,صيدلية عيادات كنجز ذ.م.م,02-5014000,adel.hamed@kchclinics.com,2-5014192,129923,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.34963099999999,24.47303900000003
+306,307,KOHAT PHARMACY- BRANCH 1,صيدلية كوهات- فرع 1,02-5620488,kohatpharmacy1@yahoo.com,2-5627306,110826,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.48802599999999,24.366782999999998
+307,308,LULU RAHA PHARMACY - LLC,صيدلية راحة اللولو - ذ م م,(971)-2-5562607,looloorha@gmail.com,(971)-2-5562608,128489,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.574161530000026,24.438938140000005
+308,309,MADINA ZAYED AL AHLIYYA  PHARMACY,صـيدلية مدينـة زايـد الأهليـة,(971)-2-8847177,ahliamed@emirates.net.ae,(971)-2-8848855,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.70451355,23.65337943999998
+309,310,MAFRAQ HOSPITAL ONCOLOGY PHARMACY,صيدلية الأورام مستشفى المفرق,02-5011001,wpratt@mafraq-hosp.ae,2-5012363,2951,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.613161090000006,24.329317090000018
+310,311,SEHA EMIRATES HOSPITAL INPATIENT PHARMACY,صيدلية مستشفى صحة الامارات الداخلية,(971)-2-4438999,pr@sehauae.com,(971)-2-4438898,42528,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.38295499999998,24.471030999999982
+311,312,ABU SHARIA PHARMACY L.L.C,صيدلية أبوشريعة ذ م م,02-6670181,ahmedabusharia@hotmail.com,2-6670191,46142,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35253716,24.467754360000015
+312,313,AL AHALIA INTERNATIONAL PHARMACY,الصيدلية الاهليه انترناشونال,02-5592624,ahliya.ya@gmail.com,2-5592675,3032,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53473853999998,24.327056879999986
+313,314,AL AIN PHARMACY - (LLC) - BRANCH 3,صيدلية العين - ذات مسئولية محدودة - فرع 3,(971)-3-7515018,social@alain-pharmacy.com,(971)-3-7515019,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.76349099999999,24.276847999999973
+314,315,AL AIN PHARMACY - (LLC) - BRANCH 6,صيدلية العين -ذات مسئولية محدودة - فرع 6,03-7669770,social@alain-pharmacy.com,3-7669779,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.640333999999996,24.21808299999998
+315,316,AL AIN PHARMACY- (LLC) -BRANCH 1,صيدلية العين - ذات مسئولية محدودة- فرع 1,(971)-3-7656506,m.nazzal@alain-pharmacy.com,(971)-3-7656508,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.79929199999998,24.18870099999998
+316,317,AL ANQOOD PHARMACY,صيدلية العنقود,02-8845355,alanqood.pharmacy@gmail.com,2-8845354,50199,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.72700099999997,23.658659999999998
+317,318,AL BATEEN PHARMACY,صـيدلية البطـين,02-6766610,bateenelectra@gmail.com,2-6769005,46333,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.372451780000006,24.493032459999995
+318,319,AL BUSTAN SPECIALTY HOSPITAL L.L.C INPATIENT PHARMACY,مستشفى البستان التخصصي ذ.م.م - صيدلية المرضى الداخلية,02-6151535,projects@ahaliagroup.ae,2-6151518,2419,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.530805999999984,24.332570999999973
+319,320,AL DAMAN PHARMACY L.L.C,صـيدلية الضمـــان  ذ.م.م,02-6349992,damangroup.pharma@gmail.com,2-6320909,126941,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36851691999999,24.489196779999986
+320,321,AL DHAFRA FIELDS PHARMACY,صيدلية مرابع الظفرة,02-8845273,dhafrapharma@gmail.com,2-8843051,294437,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.72514725000002,23.659204480000028
+321,322,AL HAYER PHARMACY EST,صيدليه الهير,(971)-3-7321388,almaqamphy@hotmail.com,(971)-3-7320471,21321,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.74608231000002,24.587690350000003
+322,323,AL HENDAWY PHARMACY LLC,صيدليه الهنداوى ذ.م.م,02-6213666,hmcpharmacy@hotmail.com,2-6217383,105521,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36747600000001,24.484173999999996
+323,324,AL ISTIQLAL PHARMACY,صيدلية الاستقلال,02-6446125,alistiqlalpharmacy@gmail.com,2-6446125,44584,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38030623999998,24.489034650000008
+324,325,AL MAFRAQ PHARMACY L.L.C,صيدلية المفرق ذ.م.م,02-6711440,haadsec@alsalamahospital.com,2-6711330,46266,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.64031791999997,24.29548073000001
+325,326,AL MANARA GLOBAL PHARMACY,صيدلية المنارة الدولية,(971)-2-6814644,dralfahim@gmail.com,(971)-2-6814645,2553,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.371572490000005,24.519420620000005
+326,327,AL MANARA PHARMACY -BRANCH 5,صيدلية المنارة - فرع 5,02-6814645,safia@sinamed.ae,2-6814644,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.443123000000014,24.419802000000004
+327,328,AL MANARA PHARMACY SHAMS-BRANCH- MASDAR CITY,صيدلية المنارة شمس – فرع - مدينة مصدر,02-6814645,safia@sinamed.ae,2-6814644,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.619151999999985,24.43314700000002
+328,329,AL MARFA AL AHLIA PHARMACY,صـيدلية المرفـأ الاهليـة,02-8833443,ahliamed@emirates.net.ae,2-8833443,77230,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.49299811999998,24.09219551000001
+329,330,AL RASASI PHARMACY,صيدلية الرصاصى,03-7807060,alrasasipharmacy@gmail.com,3-7806480,14185,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.68679500000002,24.129276000000004
+330,331,MEDICLINIC HOSPITALS  L.L.C - INPATIENT PHARMACY,مستشفيات ميديكلينيك ذ.م.م  - الصيدلية الداخلية,02-4066933,ykhabbaz@alnoorhospital.com,2-4066933,46713,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.36041832000001,24.49084854
+331,332,LAN CASTER PHARMACY,صيدلية لانكستر,(971)-3-7611228,yassir@bowling-city.com,(971)-3-7612244,80079,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.746298000000024,24.589822000000026
+332,333,MARIAM PHARMACY LLC,صيدلية مريم ذ م م,(971)-2-6421043,deepthi@emirates.net.ae,(971)-2-6418776,71469,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37116814000001,24.471225740000023
+333,334,MEDICAL SERVICES ADMINISTRATION OF ABU DHABI POLICE GHQ  PHARMACY,صيدلية ادارة الخدمات الطبية بالقيادة العامة لشرطة أبوظبي,02-5128118,drjamilaaldhuhoori@gmail.com,2-5128195,253,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.423393250000004,24.43219565999999
+334,335,MODERN DAR AL SHIFA PHARMACY L L C,صـيدلية دار الشفــاء الحــديثة  ذ م م,02-6456335,mukthar.k@asterpharmacy.com,2-6443314,4358,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.379322049999985,24.496507640000004
+335,336,NATIONAL ALAIN PHARMACY - L L C,صـيدلية العــين الوطــنية - ذ م م,03-7627116,m.nazzal@alain-pharmacy.com,3-7627115,1667,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,55.76291275,24.221211429999983
+336,337,AL RAI PHARMACY,صيدلية الراعى,(971)-2-6508661,araphama@gmail.com,(971)-2-6508665,109463,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.374896999999976,24.490964889999987
+337,338,AL TAJ PHARMACY,صيدلية التاج,3-7829505,altajpharmacy@gmail.com,3-7829505,65120,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.71525100000002,24.113856
+338,339,AL SHAWAMIKH PHARMACY,صـيدلية الشـوامخ,02-5841545,shawamikh_ph@hotmail.com,2-5841545,93934,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.64850425999998,24.352712629999985
+339,340,AL YAHAR PHARMACY,صـيدلية اليحــر,03-7816141,uaesoul12@yahoo.com,3-7815594,81235,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,55.55291175999997,24.224407199999973
+340,341,ALAIN HOSPITAL INPAITENT PHARMACY,الصيدلية الداخلية - مستشفى العين,(971)-3-7063089,asheda@alain-hospital.ae,(971)-3-7063089,1006,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,55.73355674999999,24.230731960000014
+341,342,ALPHA CARE PHARMACY L.L.C,صيدلية ألفا كير ذ.م .م,02-5558383,alphacare24x7@gmail.com,2-5558485,45932,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.51681400000001,24.36949900000002
+342,343,ALQASER ALAINY PHARMACY,صيدلية القصر العيني,02-6268802,alkasrph1@hotmail.com,2-6261187,55205,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35760689,24.491260529999977
+343,344,BETTER LIFE PHARMACY LLC-BRANCH 1,صيدلية الحياة السعيدة ذ.م.م - فرع 1,02-6393960,ahliamed@emirates.net.ae,2-6393969,75751,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.51167099999998,24.34677499999998
+344,345,BIN SINA DUTY FREE PHARMACY,صـيدلية ابـن سينـــا السـوق الحـرة,02-5757316,bsp.addf@akigroup.com,2-5757924,3167,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.647010799999975,24.428112030000023
+345,346,BOOTS AL BAWADI MALL PHARMACY,صيدلية بووتس البوادي مول,03-7018055,kayed.elsaadi@alshaya.com,4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.80763245000003,24.16016768999998
+346,347,BOOTS ALWAHDA PHARMAY,صـيدلية بووتـس الوحــده,(971)-2-6958207,kayed.elsaadi@alshaya.com,(971)-4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37298012000002,24.470548629999996
+347,348,BOOTS TAWAM PHARMACY,صيدلية بووتس توام,03-7018080,kayed.elsaadi@alshaya.com,4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.64990997000001,24.195940020000023
+348,349,CANADIAN PHARMACY LLC,الصيدلية الكندية ذ.م.م,02-5556166,canadianpharmacyad@gmail.com,2-5556167,44954,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37713100000002,24.462113999999985
+349,350,CITY LIGHT PHARMACY,صيدلية مدينة النور,03-7803929,haadpf1323@gmail.com,3-7803929,65069,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.69198990000001,24.222666740000022
+350,351,CITY PHARMACY COMPANY- WLL,شركة صـيدلية المـــدينـة ذ.م.م,(971)-2-6277730,cityphrm@emirates.net.ae,(971)-2-6269490,2098,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.362646100000006,24.489786149999986
+351,352,CLEVELAND CLINIC ABU DHABI PHARMACY LLC,صيدلية كليفلاند كلينيك أبوظبي ذ م م,02-4130000,onaqbi@mubadala.ae,2-4130001,45005,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.38798600000001,24.49749700000001
+352,353,CORNICHE HOSPITAL PHARMACY,صيدلية مستشفى الكورنيش,02-6965317,AdminCH@seha.ae,2-8117330,3788,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.36961554999999,24.50140190000002
+353,354,DOT COM PHARMACY,صيدلية دوت كوم,(971)-5-0444456,DOTCOMPHARMACY64@gmail.com,(971)-2-6266678,70390,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38336800000002,24.46863000000002
+354,355,EASTERN AL AHLIA PHARMACY,الصيدلية الشرقية الاهلية,02-5856008,ahliamed@emirates.net.ae,2-5856007,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.630714420000004,24.26007843000002
+355,356,EMIRATES PHARMACY,صـيدلية الامــارات,3-7642717,emiratespharmacy@gmail.com,3-7667930,15950,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.76790619000002,24.221856119999984
+356,357,MAFRAQ HOSPITAL PHARMACY - OUT-PATIENT,صيدلية  مستشفى المفرق,02-5011111,lhuntley@mafraqhospital.ae,2-5698471,2951,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.604995943999995,24.330303828000012
+357,358,SUMMER LAND PHARMACY L.L.C,صيدلية سمر لاند ذ.م.م,02-5822888,summerlandpharmacy18@gmail.com,2-5596995,113522,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.627940000000024,24.339399000000014
+358,359,SWAT PHARMACY,صيدلية سوات,02-5546199,swat.100515@gmail.com,2-5546749,93237,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.49177900000001,24.35272900000001
+359,360,TAWAM HOSPITAL PHARMACY- MAIN BUILDING,صيدلية مستشفى توام المبنى الرئيسي,03-7075256,jajmi@seha.ae,3-7075210,15258,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,55.64990997000001,24.195940020000023
+360,361,UNIVERSAL PHARMACY LLC,الصيدلية العالمية - ذ م م,2-6761855,drmuwaffaq@hotmail.com,2-6761855,25260,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37309264999999,24.49896622
+361,362,VITA CARE PHARMACY,صيدلية فيتا كير,02-6450848,vita_care@yahoo.com,2-6450858,110561,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38249999999999,24.464282000000026
+362,363,WESTERN AL AHLIYA PHARMACY,الصــيدلية الغربيــة الاهليـة,02-8743180,ahliamed@emirates.net.ae,2-8741267,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,52.80842209000002,23.843446729999982
+363,364,NEW AL AHRAM PHARMACY,صـيدلية الأهـرام الجـديدة,(971)-2-6442869,nancy-nb@hotmail.com,(971)-2-6442869,43236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37773894999998,24.49427222999998
+364,365,NEW MEDICAL CENTRE SPECIALTY HOSPITAL PHARMACY L.L.C,صيدلية مستشفى المركز الطبي الجديد التخصصي ذ م م,(971)-2-6217926,trading@nmc.ae,(971)-2-6212120,6222,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,55.74279403999998,24.229972840000016
+365,366,NEW PHARMACY COMPANY W L L,شــركة الصــيدلية الجـــديدة - ذ م م,02-6179269,mohammad.darweesh@nmc.ae,2-6212120,62222,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.36140633000002,24.483377459999986
+366,367,NEW SAD MAARAB PHARMACY,صـيدلية سـد مـأرب الجـديدة,02-5633073,haadpf1157@gmail.com,2-5645252,11535,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.694690700000024,24.559566500000017
+367,368,PHARMACY THE SPECIALIST DIABETES TREATMENT & RESEARCH CENTRE (IMPERIAL COLLEGE LONDON DIABETES CENTRE) L.L.C - BRANCH 2,صيدلية المركز التخصصي لعلاج وأبحاث السكري ( مركز إمبريال كوليدج لندن للسكري) ذ.م.م - فرع 2,02-4040800,esakr@mdcbms.ae,2-4040800,48338,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.452770999999984,24.420450000000017
+368,369,RAINBOW CITY PHARMACY LLC,صيدلية قوس قزح المدينة ذ م م,(971)-2-5542322,rainbowcitypharmacy@gmail.com,(971)-2-5542355,92552,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.517267230000016,24.36496543999999
+369,370,SAHARA PHARMACY LLC,صيدلية صحاري ذ.م.م,(971)-2-5556392,saharapharmacy1@gmail.com,(971)-2-5556394,9239,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.481082000000015,24.347387000000026
+370,371,SANDS PHARMACY,صـيدلية  الرمــال,02-6425688,pf1256@yahoo.com,2-6411624,4159,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37265968000003,24.480314249999992
+371,372,HEALTH FIRST PHARMACY - BRANCH 17,صيدلية هيلث فيرست - فرع 17,02-6219720,NOURRAMADAN@PLANETME.AE,2-6219780,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.729199600000015,24.446379200000024
+372,373,HEALTH FIRST PHARMACY -BRANCH 6,صيدلية هيلث فيرست - فرع 6,02-6668798,nourramadan@planetme.ae,2-6668798,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.353355410000006,24.47574234000001
+373,374,GOLDEN LIFE PHARMACY L.L.C,صيدلية جولدن لايف ذ.م.م,(971)-3-7221676,SAJEEV@LIFE-ME.COM,(971)-3-7221757,71246,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.78188,24.222508000000005
+374,375,Health Point Hospital LLC Outpatient Pharmacy,الصيدلية الخارجية لمستشفي هيلث بوينت ذ م م,(971)-2-4929300,falhammadi@mubadala.ae,(971)-2-4929300,112308,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.45292699999999,24.419239000000005
+375,376,IBN SINA PHARMACY L.L.C. - BRANCH 1,صيدلية ابن سينا ذ.م.م - فرع 1,(971)-2-6669240,bsp.danapz@akigroup.com,(971)-2-6678768,4236,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.34661102000001,24.472902299999987
+376,377,IBN SINA PHARMACY L.L.C. - BRANCH 18,صيدلية ابن سينا ذ.م.م - فرع 18,(971)-2-5661251,bsp.af3@akigroup.com,(971)-2-5661210,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.739765999999975,24.458191999999997
+377,378,JUNAID PHARMACY BRANCH-1,صيدلية جنيد   فرع-1,02-5529944,jpharmacy2012@gmail.com,2-5529945,115053,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53487069099998,24.337327921999986
+378,379,IBN SINA PHARMACY L.L.C. - BRANCH 8,صيدلية ابن سينا ذ.م.م - فرع 8,(971)-2-6395246,bsp.khalidiya@akigroup.com,(971)-2-6395241,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.34184099999999,24.469761000000005
+379,380,KHYBER PHARMACY LLC,صيدلية خيبر ذ م م,02-5836800,farhan2001ae@yahoo.com,2-5835853,55687,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.63920783999998,24.286499020000008
+380,381,SHEIKH KHALIFA MEDICAL CITY PHARMACY-DIABETIC CLINIC,صيدلية مدينة الشيخ خليفة الطبية - عيادة السكري,02-8191933,ryoussif@skmc.ae,2-6103299,51900,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.365573944000005,24.47093572900002
+381,382,KNIGHTS PHARMACY,صـيدلية الفرسـان,(971)-2-6767366,Pharmacy@aesmc.com,(971)-2-6767399,32866,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36288452000002,24.480824470000016
+382,383,MAIN ADNOC PHARMCY,صيدلية أدنوك الرئيسية,02-7071275,mfabdulla@adnoc.com,2-6664709,898,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.32490920999999,24.46145058000002
+383,384,AL AIN PHARMACY BAWADI MALL - L L C,صيدلية العين بوادي مول - ذ م م,03-7840410,info@alain-pharmacy.com,3-7840420,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.73048018999998,24.24248123000001
+384,385,LOTUS  PHARMACY LLC,صيدلية  لوتس ذ .م .م,(971)-2-6179269,sunil.mathews@nmc.ae,(971)-2-6212120,6222,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.531676000000004,24.374874999999975
+385,386,AL INMA PHARMACY- L L C,صـيدلية الإنمــاء- ذ م م,(971)-2-6213911,inmaa_ph@Emirates.net.ae,(971)-2-6213911,53652,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35225295999999,24.481611250000014
+386,387,AL MADAR MEDICAL CENTER PHARMACY L.L.C,صيدلية مركز المدار الطبي ذ.م.م,3-7667666,naser.othman@mediclinic.ae,3-7647479,68339,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.720500000000015,24.243100000000027
+387,388,AL MANARA AL RUWAIS PHARMACY,صيدلية المنارة الرويس,(971)-2-8760210,Afrah@delta-uae.com,(971)-2-8760211,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,52.67228699999998,24.07583199999999
+388,389,AL MANARA PHARMACY AL SHAWAMEKH,صيدلية المنارة الشوامخ,(971)-2-6814644,dralfahim@gmail.com,(971)-2-6814645,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.72267900000003,24.386965999999973
+389,390,AL MANARA PHARMACY MARINA MALL,صـيدلية المنـارة مارينـا مـول,02-6814644,deltamed@emirates.net.ae,2-6814645,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.32109451000002,24.476179119999983
+390,391,AL NAJAH PHARMACY,صـيدلية النجـاح,(971)-2-6337993,alnajah.pharmacy@yahoo.com,(971)-2-6315660,27148,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37346839999998,24.501829149999992
+391,392,MEDICLINIC PHARMACY - ALNOOR,صيدلية ميديكلينيك - النور,(971)-2-4066933,Bernil.Salarda@Mediclinic.ae,(971)-2-5598419,46713,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.371364589999985,24.494928360000017
+392,393,MEDICINA AL MUNEERA PHARMACY,صيدلية ميديسينا المنيرة,02-5513004,amro.abbas@pharmalink.ae,2-5520611,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.60484700000001,24.451549
+393,394,LULU ALFOAH PHARMACY.LLC,صيدلية لولو الفوعة . ذ م م,03-7843221,haadpf1700@gmail.com,3-7843129,87001,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.79263114999998,24.344112399999972
+394,395,MEDICINA PHARMACY - BRANCH 15,صيدلية ميديسينا - فرع 15,(971)-2-4458584,amro.abbas@pharmalink.ae,(971)-2-4458574,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.372329709999974,24.467763900000023
+395,396,MEDICINA PHARMACY -BRANCH 4,صيدلية ميديسينا -فرع 4,02-3042020,amro.abbas@pharmalink.ae,2-6261608,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.405921999999975,24.510782000000006
+396,397,NATIONAL HOSPITAL  PHARMACY,صيدلية المستشفى الوطني - ذ م م,(971)-2-6711000,nat-hosp@eim.ae,(971)-2-6720900,30666,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.37308883999998,24.490056990000028
+397,398,NEDHAL PHARMACY,صـيدلية نضــال,03-7222384,nedhal4.phy@gmail.com,3-7222384,84281,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.759983060000025,24.19581126999998
+398,399,AL QUAA HEALTHCARE CENTER PHARMACY,صيدلية مركز القوع الصحي,(971)-2-7113711,ahs@seha.ae,(971)-2-7113711,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.422077179999974,23.39767741999998
+399,400,AL RAHBA HOSPITAL PHARMACY - INPATIENT PHARMACY,صيدلية مستشفى الرحبة- صيدلية داخلية,(971)-2-5064006,rahbaceo@seha.ae,(971)-2-5064444,34555,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.69444275000001,24.572727199999974
+400,401,AL RODA PHARMACY L L C,صيدلية الروضة  ذ م م,03-7633770,info@alain-pharmacy.com,3-7637372,15325,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,55.75325012000002,24.244970319999993
+401,402,AL THIQA AL ALMYIAH PHARMACY L.L.C,صيدلية الثقة العالمية ذ.م.م,02-4419283,ceo@mco.ae,2-4419286,47612,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.69416045999998,24.555078509999987
+402,403,AL SHAHAB PHARMACY,صـيدلية الشهــاب,03-7515566,albayanpharmacy@yahoo.com,3-7516679,15435,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.542419429999995,24.221000670000024
+403,404,AL WIFAQ PHARMACY,صيدلية الوفاق,02-6741798,rxgahs328@yahoo.com,2-6741798,2122,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.374877930000025,24.49608231000002
+404,405,ALMANARA PHARMACY HILI MALL,صيدلية المنارة هيلي مول,3-7853977,safia@sinamed.ae,3-7853991,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77942300000001,24.273776999999995
+405,406,ALRAHA PHARMACY,صـيدلية الراحة,(971)-2-6314400,majid@alrahahospital.com,(971)-2-6336198,8119,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.36997222999997,24.489532469999972
+406,407,ALTHIQA AL DOWALIAH PHARMACY L.L.C,صيدلية الثقة الدولية ذ.م.م,02-4419283,christa@mco.ae,2-4419286,44548,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.37239837999999,24.47591209000001
+407,408,AMAL PHARMACY,صيدلية الامـل,(971)-2-5832331,suliman_amc@hotmail.com,(971)-2-5834011,11173,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.64797973999998,24.28251266000001
+408,409,ARAFAT PHARMACY WLL - BRANCH,صيدلية عرفات ذ م م فرع,02-5506906,arapharma@gmail.com,2-5506903,8147,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.49508900000001,24.345950000000016
+409,410,ASTER PHARMACIES GROUP LLC - BRANCH OF ABU DHABI 6,مجموعة صيدلية استر ش ذ م م - فرع ابوظبي 6,(971)-2-5584915,pr@asterpharmacy.com,(971)-2-5584915,34875,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.535290299999986,24.330037800000014
+410,411,BAREEN INTERNATIONAL HOSPITAL PHARMACY,صيدلية مستشفى بارين الدولي,(971)-2-5504664,ahmed.almasri@fakihivf.com,(971)-2-5504664,31453,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.554373,24.339156000000003
+411,412,BOOTS AL AIN MALL PHARMACY,صيدلية بووتس العين مول,03-7018014,kayed.elsaadi@alshaya.com,4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.78213310000001,24.22244453000002
+412,413,BURJEEL PHARMACY L C C-BRANCH 8,صيدلية برجيل ذ.م.م-فرع 8,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222366,73048,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.365455629999985,24.483911509999984
+413,414,Burjeel Pharmacy L.L.C-Branch 4,صيدلية برجيل ذ.م.م- فرع 4,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222366,73048,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.41275406,24.43454360999999
+414,415,CENTRAL PHARMACY,الصـيدلية المركــزية,(971)-2-6324866,centralpharmacy31@gmaill.com,(971)-2-6324668,46005,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36520767000002,24.48968315000002
+415,416,COOPERATIVE AL AIN PHARMACY - CO L LC,صيدليه العين التعاونيه ذ م م,(971)-03-7675074,info@alain-pharmacy.com,(971)-3-7675073,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.71986198000002,24.207220080000013
+416,417,COSMESURGE AND EMIRATES HOSPITAL PHARMACY L.L.C - BRANCH 1,صيدلية كوزمسيرج ومستشفى الامارات ذ.م.م - فرع 1,02-5565141,haad@emirateshospital.ae,2-5565140,30907,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.57282638999999,24.403450009999972
+417,418,DAAR AL MISBAH PHARMACY,صيدلية دار المصباح,02-5535544,daralmishbahpharmacy@gmail.com,2-5535599,92947,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.503558999999996,24.360005
+418,419,DAWN PHARMACY COMPANY - WLL,شركة صيدلية الفجر - ذ م م,02-5831929,ahliamed@emirates.net.ae,2-5831929,2419,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.64056015,24.285459520000018
+419,420,EL YAZIYA PHARMACY,صـيدلية اليـازية,02-4493700,elyazia782@rediffmail.com,2-4492800,46333,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.435712809999984,24.43404387999999
+420,421,HEALTH SHEILD MEDICAL CENTER LLC PHARMACY,صيدلية مركز هيلث شيلد الطبي ذ م م,(971)-2-6989999,louay@capital-health.ae,(971)-2-6989929,230,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.360080719999985,24.493034360000024
+421,422,SER AL DAWAA PHARMACY,صيدلية سر الدواء,(971)-2-6723232,walla@almaz.net.ae,(971)-2-6720199,80695,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.768470760000014,24.224760059999994
+422,423,STANDARD PHARMACY,صـيدلية المســتوى,2-5513394,standardpharmacy@gmail.com,2-5513713,132410,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.49695778,24.351734159999978
+423,424,TALAT PHARMACY AL MUSAFFAH,صــيدلية طــلعت المصــفح,02-5526909,talatmed@emirtes.net.ae,2-5526906,105034,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53595924000001,24.323953630000005
+424,425,TIME CURE PHARMACY,صيدلية تايم كيور,02-5831896,pharmacy@timecuremc.com,2-5508997,46182,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.49611199999998,24.34404699999999
+425,426,TOP CARE PHARMACY,صـيدلية قمـة العنايـة,02-5500625,topcarem@emirates.net.ae,2-5500621,40490,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.488374710000016,24.34005737000001
+426,427,ULTRA MEDICAL CENTER PHARMACY,صيدلية مركز الترا الطبي,03-7625552,amoda1981@gmail.com,3-7625552,19942,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.37013625999998,24.462123870000028
+427,428,UNIVERSAL HOSPITAL PHARMACY LLC - BRANCH 1,صيدلية مستشفى يونيفيرسال ذ.م.م - فرع 1,(971)-2-5999555,haad@universalhospitals.com,(971)-2-6439992,5056,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.65407699999997,24.312566000000004
+428,429,WELL CARE PHARMACY L L C,صيدلية ويل كير ذ.م.م,02-6761199,amro.abbas@pharmalink.ae,2-6766000,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37184400000001,24.49051700000001
+429,430,NEW AL DAMAN  PHARMACY L L C,صيدلية الضمان الجديدة ذ م م,02-6215700,damangroup.pharma@gmail.com,2-6216700,126941,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36308860999998,24.488183979999974
+430,431,NEW AL HANAN PHARMACY,صـيدلية الحنـان الجـديدة,(971)-2-6443732,merajpharmacyllc@gmail.com,(971)-2-6449869,28020,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38109398,24.493476869999995
+431,432,Nova Pharmacy,صيدلية نوفا,03-7550388,novapharmacyuae@gmail.com,3-7550377,23688,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.730823999999984,24.22538400000002
+432,433,POLY CLINIC PHARMACY,صيدلية العيادات الخارجية,(971)-3-7072066,rkalantar@seha.ae,(971)-3-7072074,15258,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.64990997000001,24.195940020000023
+433,434,PRESTIGE PHARMACY,صيدلية بريستيج,02-5858588,prestigepharmacy@hotmail.com,2-5858535,10343,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.62676800000003,24.29362500000002
+434,435,DANA MEDICAL CENTER PHARMACY L.L.C.,صيدلية مركز الدانة الطبي ذ.م.م.,02-6661551,healthline@healthlineuae.com,2-6661711,74812,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.637649539999984,24.297554020000007
+435,436,GOOD LIFE PHARMACY,صيدلية جود لايف,03-7351336,pharmacygoodlife@yahoo.com,3-7351336,15439,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.43048900000002,23.414089999999987
+436,437,HEALTH FIRST PHARMACY - BRANCH 13,صيدلية هيلث فيرست - فرع 13,02-5646364,nourramadan@planetme.ae,2-5646881,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.67141600000002,24.523466999999982
+437,438,HEALTH FIRST PHARMACY - BRANCH 2,صيدلية هيلث فيرست - فرع 2,02-5834451,nourramadan@planetme.ae,2-5834459,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.64183043999998,24.286792760000026
+438,439,HEALTH FIRST PHARMACY - BRANCH 5,صيدلية هيلث فيرست - فرع 5,02-5530036,nourramadan@planetme.ae,2-5530037,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53079223999998,24.32847308999999
+439,440,GAYATHY HOSPITAL IN PATIENT PHARMACY,الصيدلية الداخلية - مستشفى غياثي,02-8076045,ah_saeed@seha.ae,2-8742993,77695,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,52.81067100000001,23.870839999999987
+440,441,GHANTOOT PHARMACY,صـيدلية غنتــوت,3-7822310,ghanthootphy@hotmail.com,3-7822300,23215,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.83343315000002,24.08514022999998
+441,442,GIGI PHARMACY LLC,صيدلية جي جي ذ م م,(971)-2-6289371,hussein.legaladvice@gmail.com,(971)-2-6289375,24,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36859512000001,24.478727339999978
+442,443,IBN SINA PHARMACY L.L.C. - BRANCH 5,صيدلية ابن سينا ذ.م.م - فرع 5,02-5512385,delmamallgf@akigroup.com,2-5512384,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.52374268,24.333050730000025
+443,444,GULF DIAGNOSTIC CENTER HOSPITAL INPATIENT PHARMACY W L L,الصيدلية الداخلية لمستشفى مركز الخليج للتشخيص ذ م م,(971)-2-4177316,imran.ghulam@gdc-hospital.com,(971)-2-6658084,30702,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.36376323100001,24.449381790000018
+444,445,SHEIKH KHALIFA MEDICAL CITY PHARMACY - OUTPATIENT,صيدلية مدينة الشيخ خليفة الطبية,2-8193257,falhaddad@skmc.ae,2-6103299,51900,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.366596000000015,24.469670000000008
+445,446,AL BAHYA HEALTHCARE CENTER PHARMACY,صيدلية مركز الباهية الصحي,02-7113711,ahs@seha.ae,2-7113711,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.63756667000001,24.29759999999999
+446,447,L A INTERNATIONAL PHARMACY L.L.C.,صيدليه ال ايه انترناشونال ذ.م.م,02-5555202,rosalie@lahmgroup.com,2-5555207,145432,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53347236100001,24.335152504000007
+447,448,MAJED PHARMACY,صـيدلية ماجــد,03-7512117,majidpharmacy@ymail.com,3-7641117,15656,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77007484000001,24.22258758999999
+448,449,MAJED PHARMACY - BRANCH 1,صيدلية ماجد - فرع 1,03-7640881,majedpharmacybr1@gmail.com,3-7512117,69322,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77003500000001,24.222550000000012
+449,450,AL AIN MODERN PHARMACY L L C,صـيدلية العــين الحــديثة ذ م م,03-7628919,info@alain-pharmacy.com,3-7515019,15325,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.73048018999998,24.24248123000001
+450,451,AL AMAL PHARMACY BRANCH,صيدلية الأمل فرع,(971)-2-5833583,suliman_amc@hotmail.com,(971)-2-5834011,11173,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.64797973999998,24.28251266000001
+451,452,AL ANWAR PHARMACY,صـيدلية الانـوار,02-5554442,alanwarph0101@gmail.com,2-5554432,26911,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.509475710000004,24.37277793999999
+452,453,AL BUSTAN HOSPITAL PHARMACY LLC,صيدلية مستشفي البستان ذ م م,02-6151525,projects@ahaliagroup.ae,2-6151517,2419,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.53074600000002,24.332588999999984
+453,454,AL JIMI PHARMACY,صـيدلية الجـيمي,03-7636852,poneryshafi@gmail.com,3-7636722,16620,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.73930167999998,24.257352830000002
+454,455,AL KAMAL PHARMACY,صـيدلية الكمــال,(971)-2-6669281,alkamal@eim.ae,(971)-2-6338208,4000,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35033988999999,24.47581673000002
+455,456,AL MANARA PHARMACY ABU DHABI MALL,صـيدلية المنارة مركز أبوظبي,02-6814644,deltamed@emirates.net.ae,2-6814645,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38326262999999,24.496008870000026
+456,457,LAHORE PHARMACY L.L.C,صـيدلية لاهـور ذ.م.م,02-5522205,drzia67@yahoo.com,2-5508988,13111,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.484533,24.346138999999994
+457,458,MARINA PHARMACY ALCORNICHE LLC,صيدلية مارينا الكورنيش -ذ م م,04-3466889,ahmed@marinapharmacy.com,4-3466998,135985,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35597610000002,24.489295009999978
+458,459,MED HELP PHARMACY,صيدلية ميد هلب,03-7210068,medhelppharmacy2899@gmail.com,3-7555662,65069,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.75576100000001,24.193385999999975
+459,460,LIFECARE HOSPITAL IN-PATIENT PHARMACY / BRANCH 1,صيدلية مستشفى لايف كير الداخلية \ فرع 1,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222366,94666,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.52089799999999,24.360923000000014
+460,461,LULU AL AIN PHARMACY-LLC-BRANCH,صيدلية لولو العين- ذ م م- فرع,3-7640677,haadpf1591@gmail.com,3-7640687,87001,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77409743999999,24.232860570000014
+461,462,MEDICINA PHARMACY BRANCH 5,صيدلية ميديسينا فرع 5,02-6261608,amro.abbas@pharmalink.ae,2-3032091,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.517605,24.405707000000007
+462,463,MESK ALMADINA PHARMACY,صيدلية مسك المدينة,02-6439779,hr.ammc@almariah.com,2-6439334,126640,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.38914108,24.451355929999977
+463,464,MEZYAD HEALTHCARE CENTER PHARMACY,صيدلية مركز مزيد الصحي,(971)-2-7113711,ahs@seha.ae,(971)-2-7113711,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.838172910000026,24.086020469999994
+464,465,MODERN PHARMACY - SOLE PROPRIETORSHIP L.L.C.,الصيدلية الحديثة - شركة الشخص الواحد ذ م م,(971)-2-4435500,MPCAD@MODERNPHARMA.CO.AE,(971)-2-4433600,2515,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.35729218,24.486005780000028
+465,466,MOTHER PHARMACY,صيدلية الام,03-7515210,mother.pharmacy@yahoo.com,3-7515822,23264,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.76969528000001,24.222357750000015
+466,467,N M C SPECIALTY HOSPITAL PHARMACY - L.L.C. – 1,صيدلية مستشفى ان ام سي التخصصي  1 ذ.م.م,(971)-2-6179269,mohammed.darweesh@nmc.ae,(971)-2-6212120,6222,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.36156273,24.48244667
+467,468,NADIA PHARMACY,صيدلية ناديا,(971)-2-6427282,nadiaphy@yahoo.com,(971)-2-6427282,128311,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38302612000001,24.48333931000002
+468,469,NAHEL AL AIN PHARMACY L L C,صيدلية العين ناهل ذ.م.م,03-7340488,info@alain-pharmacy.com,3-7340465,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.66706799999997,24.213299000000006
+469,470,MEDICLINIC PHARMACY - AL MUSAFFAH 2,صيدلية ميديكلينيك- المصفح 2,(971)-2-4066933,Bernil.Salarda@Mediclinic.ae,(971)-2-5598419,46713,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.53148299999998,24.332578000000012
+470,471,AL NUAIMI PHARMACY,صـيدلية النعيـمي,(971)-2-0000000,georgeorymon69@gmail.com,(971)-2-0000000,53977,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.533123020000005,24.334266660000026
+471,472,AL SAFA PHARMACY,صـيدلية الصفا,03-7552477,alsafaphy@gmail.com,3-7669920,69322,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.387716290000014,24.45975685000002
+472,473,AL SHAAB PHARMACY - WLL,صيدلية الشعب - ذات مسؤولية محدودة,03-7511546,alshaabpharmacy@hotmail.com,3-7511027,15173,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.77573776000003,24.21884251
+473,474,AL WADI PHARMACY,صــيدلية الـــوادي,(971)-2-6813301,rashmi.kamal13@gmail.com,(971)-2-6810630,32617,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.33459282000001,24.46543502999998
+474,475,AL WAGAN HOSPITAL PHARMACY,صيدلية مستشفى الوجن,03-7017718,wayabdalla@seha.ae,3-7017732,15258,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,55.56575012000002,23.637324330000013
+475,476,ALMANARA PHARMACY -BRANCH 7,صيدلية المنارة -فرع 7,02-5521603,safia@sinamed.ae,2-5521605,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.673433999999986,24.45771400000001
+476,477,ALMANARA PHARMACY BAWABAT ALSHARQ,صيدلية المنارة بوابة الشرق,02-5828270,aneermen@hotmail.com,2-5828515,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.62095099999999,24.312535000000025
+477,478,MEDICLINIC PHARMACY - ALNOOR - BRANCH 1,صيدلية ميديكلينيك - النور - فرع 1,(971)-2-4066933,ykhabbaz@alnoorhospital.com,(971)-2-5598419,46713,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.461635590000014,24.417179110000006
+478,479,ALRIYADH PHARMACY L.L.C,صيدلية الرياض ذ.م.م,(971)-2-5829930,alriyadhph@hotmail.com,(971)-2-5829931,149149,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.64404678,24.328194619999977
+479,480,ARAFAT PHARMACY W.L.L,صـيدلية عرفـات ذ م م,2-6352473,arapharma@gmail.com,2-6352473,8147,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36371422000002,24.486631390000014
+480,481,MEDICLINIC  PHARMACY ASPETAR  L.L.C.,صيدلية ميديكلينيك أسبيتار ذ.م.م,(971)-3-7667666,naser.othman@mediclinic.ae,(971)-3-7647479,68339,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.729692,24.199445000000026
+481,482,BEAUTY PHARMACY L L C,صيدلية الجمال ذ م م,2-6421648,beauty.pharmacy@hotmail.com,2-6420648,1221,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37859154,24.474266049999983
+482,483,BOOTS AIRPORT PHARMACY,صيدلية بووتس المطار,02-5759816,kayed.elsaadi@alshaya.com,4-4534083,1277,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.646621700000026,24.426849370000014
+483,484,BOOTS BAWABAT AL SHARQ PHARMACY,صيدلية بووتس بوابة الشرق,04-4549136,kayed.elsaadi@alshaya.com,4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.62037800000002,24.31198599999999
+484,485,NMC ROYAL  WOMENS HOSPITAL PHARMACY L.L.C,صيدلية مستشفى ان ام سي رويال للمرأه ذ .م.م,(971)-2-2179269,msamneh@gmail.com,(971)-2-6212120,6222,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.393348,24.45250299999998
+485,486,BUDOOR PHARMACY,صـيدلية بـــدور,03-7685005,pharmbudoor@hotmail.com,3-7682806,18235,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.63656997999999,24.191649439999992
+486,487,BURJEEL PHARMACY - BARARI MALL L.L.C.,صيدلية برجيل - براري مول ذ.م.م,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222366,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.829961000000026,24.08636899999999
+487,488,BURJEEL PHARMACY LLC,صيدلية برجيل ذ م م,02-2222366,saad.lifeline@vpshealth.com,2-2222366,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.670027000000005,24.522666000000015
+488,489,COSMESURGE AND EMIRATES HOSPITAL PHARMACY L.L.C,صيدلية كوزمسيرج ومستشفى الامارات ذ.م.م,(971)-2-4460065,haad@emirateshospital.ae,(971)-2-4460098,30907,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37384033000001,24.4596138
+489,490,SHADA PHARMACY L.L.C,صيدلية شدا ذ م م,(971)-2-6265965,LOBNA.TAALAB@GMAIL.COM,(971)-2-6265965,5478,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.377114000000006,24.503612999999973
+490,491,SHAREEF PHARMACY W L L,صـيدلية شــريف ذ.م.م,(971)-2-6772691,shareef330@yahoo.com,(971)-2-6772691,46276,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.371412280000015,24.49670028999998
+491,492,SUPER CARE PHARMACY - BRANCH OF ABU DHABI 2,صيدلية سوبركير - فرع أبوظبي 2,02-6653350,hanan.a@supercare.ae,2-6653359,118347,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.523888,24.333146
+492,493,TALAT PHARMACY,صـيدلية طــلعت,(971)-2-6316477,talatmed@emirates.net.ae,(971)-2-6316474,25339,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37030028999999,24.479960440000013
+493,494,TOWER PHARMACY LLC,صيدلية البرج  ذ م م,02-5833349,newtowerpharmacy@gmail.com,2-5834669,11575,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.638654710000026,24.294347759999994
+494,495,WELCOME PHARMACY,صيدلية مرحبا,02-5506282,aks4525_zaman@yahoo.com,2-5506282,8641,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.51922225999999,24.348372460000007
+495,496,ZAKHER HEALTHCARE CENTER PHARMACY,صيدلية مركز زاخر الصحي,03-7461654,ahs@seha.ae,3-7461030,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.69229317000003,24.148117070000012
+496,497,NEW MEDICAL CENTRE PHARMACY - L.L.C -AL AIN - NMC,صـيدلية المركــز الطــبي الجــديد - ذ م م - العين,03-7030322,the-immortal18@hotmail.com,3-7553377,84142,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.74229430999998,24.230326649999995
+497,498,NIDHAM GHIYATHI PHARMACY,صيدلية نظام غياثي,02-8741791,nidhamghiyathi@yahoo.com,2-8741791,79450,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,52.80845399999998,23.843628000000024
+498,499,QUALITY PHARMACY,صيدلية الجودة,03-7834788,mohammedf33@yahoo.com,3-7834788,22278,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.59146308999999,24.204338070000006
+499,500,RAFA PHARMACY L.L.C,صيدلية رافا  ذ.م.م,(971)-3-7657009,rafa@asterpharmacy.com,(971)-3-7657009,84467,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.76076508,24.225558279999973
+500,501,RIMA PHARMACY,صـيدلية ريمــا,(971)-2-6744214,pharmacy@nationalhospital.ae,(971)-2-6720900,30666,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.37308883999998,24.490056990000028
+501,502,SAMAYA PHARMACY LLC,صيدلية سمايا ذ م م,(971)-2-6106060,info@samayahospital.ae,(971)-2-4455558,111970,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37092000000001,24.433869000000016
+502,503,GOLDEN TULIP PHARMACY L L C,صيدلية جولدن توليب ذ.م.م,02-5556609,ahmedalmasri1@gmail.com,2-5556601,29827,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.49099100000001,24.362964999999974
+503,504,GREEN LIFE PHARMACY,صيدلية جرين لايف,02-4481772,greenlife.pharma.uae@gmail.com,2-4481773,6012,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.53520500000002,24.332527000000027
+504,505,HAMED PHARMACY,صـيدلية حـامد,(971)-3-7624600,hameed__pharm@yahoo.com,(971)-3-7624511,16105,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.74570464999999,24.242027280000002
+505,506,FAKIH MEDICAL CENTER PHARMACY L L C,صيدلية مركز فقيه الطبي ذ م م,(971)-2-6265770,ahmed.almasri@fakihivf.com,(971)-2-4435598,31453,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.367418999999984,24.466680999999994
+506,507,FAMILY PHARMACY,صيدلية العائلة,02-6317417,elizabeth.roymon@yahoo.com,2-6334616,27700,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.364257810000026,24.481484410000007
+507,508,HEALTH FIRST PHARMACY - BRANCH 18,صيدلية هيلث فيرست - فرع 18,02-6219780,NOURRAMADAN@PLANETME.AE,2-6219720,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.69491799999997,24.57257900000002
+508,509,HEALTH FIRST PHARMACY - BRANCH 3,صيدلية هيلث فيرست - فرع 3,02-5527070,nourramadan@planetme.ae,2-5527025,9690,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.535341259999996,24.329370499999982
+509,510,FIRST MEDICAL CENTER PHARMACY L.L.C.,صيدلية المركز الطبي الاول ذ م م,(971)-2-6656600,info@fmc.co.ae,(971)-2-6656500,27934,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.34704590000001,24.463993070000015
+510,511,FUTURE PHARMACY,صـيدلية المسـتقبل,02-6740090,fut.pharmacy@gmail.com,2-6740104,52571,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37763214,24.502140999999995
+511,512,HEALTH POINT HOSPITAL LLC INPATIENT PHARMACY,الصيدلية الداخلية لمستشفى هيلث بوينت ذ م م,02-4929110,mpadua@mdcbms.ae,2-4929011,112308,Pharmacy,Inpatient Pharmacy,Public,Yes,,,,,,,54.452957000000026,24.41902700000003
+512,513,IBN SINA PHARMACY L.L.C,صيدلية ابن سينا ذ.م.م,(971)-2-6815630,bsp.marinaml@akigroup.com,(971)-2-6815640,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.32109451000002,24.476179119999983
+513,514,IBN SINA PHARMACY L.L.C. - BRANCH 4,صيدلية ابن سينا ذ.م.م - فرع 4,02-4498140,bsp.muroor@akigroup.com,2-4498399,4236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.43948363999999,24.433445930000005
+514,515,SPECIALIZED UNIVERSITY MEDICAL CENTRE PHARMACY,صيدلية مركز الجامعة الطبي التخصصي,03-7665555,isamugamer@gmail.com,3-7658777,65892,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.75299411499998,24.220687821000013
+515,516,Madinat Khalifa Healthcare Center Pharmacy,صيدلية مركز مدينة خليفة الصحي,(971)-2-7113711,ahs@seha.ae,(971)-2-7113711,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.56479999999999,24.42751666999999
+516,517,BEHAVIORAL SCIENCE PAVILION OUTPATIENT PHARMACY,الصيدلية الخارجية لجناح العلوم السلوكية,(971)-2-8193257,ryoussif@skmc.ae,(971)-2-6103299,51900,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.365573944000005,24.47093572900002
+517,518,KOHAT PHARMACY,صيدلية كوهات,02-5555555,kohatpharmacy@yahoo.com,2-5555555,0,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.48839400000003,24.352780999999993
+518,519,AIN AL KHALEEJ HOSPITAL PHARMACY,صيدلية مستشفى عين الخليج,03-7099600,skumar@ak-hospital.com,3-7099601,88206,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.72409499999998,24.245997999999986
+519,520,AL AIN PHARMACY - (LLC) - BRANCH 9,صيدلية العين - ذات مسئولية محدودة - فرع 9,(971)-3-7663301,m.nazzal@alain-pharmacy.com,(971)-3-7663301,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.715147,24.243449999999996
+520,521,AL AIN PHARMACY- LLC-BRANCH 2,صيدلية العين- ذات مسئولية محدودة-فرع 2,(971)-3-7669885,m.nazzal@alain-pharmacy.com,(971)-3-7669884,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.54483699999997,24.21340600000002
+521,522,AL FALAH HEALTHCARE CENTER PHARMACY,صيدلية مركز الفلاح الصحي,(971)-2-7113711,ahs@seha.ae,(971)-2-7113711,111355,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.741544999999974,24.464125000000024
+522,523,AL HANAN PHARMACY W L L,صـيدلية الحنــان - ذ.م.م,(971)-2-4478990,nancy-nb@hotmail.com,(971)-2-4478992,43236,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.385660169999994,24.46489716000002
+523,524,AL IMAN PHARMACY,صيدلية الايمـان,02-4462156,imanpharmacy@yahoo.com,2-4462152,45449,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38693237000001,24.451937680000015
+524,525,AL MANARA PHARMCY-WORLD TRADE CENTER,صيدلية المنارة-مركز التجارة الدولي,(971)-2-6331618,deltamed@delta-uae.com,(971)-2-6331614,3084,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.357844,24.487387000000012
+525,526,AL MAZROEI PHARMACY,صـيدلية المزروعـي,(971)-2-6714007,M.WAHID@ALMAZ.NET.AE,(971)-2-6711355,47164,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.37479019,24.48526382
+526,527,AL MUZN PHARMACY,صيدلية المزن,03-7809948,almuzanpharmacy@gmail.com,3-7809948,80204,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.844019,24.088983999999982
+527,528,LA ROCHE PHARMACY  L L C,صيدلية لاروش ذ م م,02-6455899,as-hammad@outlook.com,2-6455896,25183,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.381217960000015,24.496299739999984
+528,529,MANSOUR PHARMACY,صـيدلية منصـــور,02-6422287,mansourpharmacyuae@yahoo.com,2-6425626,28882,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36657905999999,24.476003649999996
+529,530,MECCA PHARMACY,صيدلية مكــة,(971)-3-7518779,makka_pharm@yahoo.com,(971)-3-7518776,84857,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.75839043000002,24.227031710000006
+530,531,LEYLAN PHARMACY LLC,صيدلية ليلان ذ م م,02-5532076,leylansorani@yahoo.com,2-5532079,36440,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.534970999999985,24.340917999999988
+531,532,BURJEEL PHARMACY  L.L.C. - BRANCH 13,صيدلية برجيل ذ.م.م - فرع 13,(971)-2-2222336,saad.lifeline@vpshealth.com,(971)-2-2222336,94666,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.60882700000002,24.488796999999977
+532,533,MEDI PRIME PHARMACY,صيدلية ميدي برايم,(971)-2-6229993,alawadahmed@hotmail.com,(971)-2-6280399,31691,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36686707000001,24.47741603999998
+533,534,LLH HOSPITAL PHARMACY- LLC,صيدلية مستشفى ال ال اتش - ذ م م,2-2222366,saad.lifeline@vpshealth.com,2-2222366,94666,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.36489104999998,24.487705230000017
+534,535,MEDICINA INTERNATIONAL PHARMACY,صيدلية ميديسينا الدولية,02-4496744,amro.abbas@pharmalink.ae,2-4496899,41412,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.43300247000002,24.43444538
+535,536,LULU AL AIN PHARMACY - LLC,صيدلية لولو العين - ذ م م,(971)-3-7212330,haadpf1547@gmail.com,(971)-3-7212440,87001,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.7617836,24.20307636000001
+536,537,MEDICINA PHARMACY - BRANCH 11,صيدلية ميديسينا - فرع 11,02-3042020,amro.abbas@pharmalink.ae,2-6261608,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.55357099999998,24.401396999999974
+537,538,MEDICINA PHARMACY -BRANCH 6,صيدلية ميديسينا فرع 6,02-5846880,amro.abbas@pharmalink.ae,2-5846881,41412,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.73979600000001,24.443493999999987
+538,539,MEDICLINIC PHARMACY - ALAIN - BRANCH 1,صيدلية ميديكلينيك - العين - فرع 1,(971)-3-7667666,naser.othman@mediclinic.ae,(971)-3-7647479,14444,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.768020630000024,24.222841259999996
+539,540,MEDSTAR HAMDAN PHARMACY L.L.C,صيدلية ميدستار حمدان ذ م م,(971)-4-4137176,ykhabbaz@alnoorhospital.com,(971)-4-4137176,46713,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,53.704715729999975,23.650624279999988
+540,541,AL QADI ADVANCED PHARMACY-LLC,صيدلية  القاضي  المتقدمة - ذ م م,02-4437777,alqadime@eim.ae,2-4439797,468,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.368688580000025,24.44190979000001
+541,542,AL QADI PHARMACY & ESTABLISHMENT. L.L.C.,صـيدلية ومؤسسـة القـاضي ذ. م.م,02-6341122,alqadime@eim.ae,2-6341122,468,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.368688580000025,24.44190979000001
+542,543,AL RAHBA HOSPITAL PHARMACY - OUTPATIENT PHARMACY,صيدلية مستشفى الرحبة- صيدلية خارجية,02-5064006,rahbaceo@seha.ae,2-5064000,34555,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,54.69444275000001,24.572727199999974
+543,544,AL RAYYAN PHARMACY,صيدلية الريان,03-7351190,alrayyan.phy@gmail.com,3-7351190,84281,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.5664711,23.640230180000003
+544,545,AL SALAMA HOSPITAL PHARMACY L.L.C,صيدلية مستشفي السلامه ذ.م.م,02-6966777,amro.abbas@pharmalink.ae,2-6774794,46266,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.37655066999997,24.499809270000014
+545,546,AL SALAMA ONE DAY SURGERY CENTER PHARMACY L.L.C,صيدلية مركز السلامة لجراحة اليوم الواحد ذ.م.م,(971)-529800112,amro.abbas@pharmalink.ae,(971)-2-6711440,26466,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.637249999999995,24.305632000000003
+546,547,AL SHAM PHARMACY L L C,صـيدلية الشـام ذ م م,(971)-2-6318929,alshampharmacy@yahoo.com,(971)-2-6320928,48394,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.36591721000002,24.47952461
+547,548,AL WAZEER PHARMACY,صـيدلية الوزيـــر,3-7636326,alwazirpharmacy@yahoo.com,3-7636426,69482,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.739183430000026,24.261083600000006
+548,549,AL YAHAR HEALTHCARE CENTER PHARMACY,صيدلية مركز اليحر الصحي,03-7462108,ahs@seha.ae,3-7461010,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.564174649999984,24.232596399999977
+549,550,ALAIN PHARMACY - (LLC) - BRANCH 7,صيدلية العين - ذات مسئولية محدودة - فرع 7,(971)-3-7669772,m.nazzal@alain-pharmacy.com,(971)-3-7669773,1667,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.660307999999986,24.197287000000017
+550,551,ALRAHA PHARMACY - BRANCH 1,صيدلية الراحة - فرع 1,02-6669073,rxgahs617@yahoo.com,2-6666502,3112,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.351095199999975,24.47545242000001
+551,552,ALSHAMIL PHARMACY LLC,صيدلية الشامل ذ م م,(971)-2-5555684,alshamilpharmacy@yahoo.com,(971)-2-4457712,61429,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.48798900000003,24.345800999999994
+552,553,Al Jahli Healthcare Center Pharmacy,صيدلية مركز الجاهلي الصحي,(971)-2-7113711,ahs@seha.ae,(971)-2-7113711,111355,Pharmacy,Outpatient Pharmacy,Public,No,,,,,,,55.748765950000006,24.212528229999975
+553,554,BAGHDAD PHARMACY L.L.C,صـيدلية بغـــداد ذ.م.م,(971)-2-5523040,baghdadpharmacy1@gmail.com,(971)-2-5523044,9697,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.534093859999984,24.32423591999998
+554,555,BASSEM PHARMACY,صـيدلية باســم,02-4466468,bassempharmacy@hotmail.com,2-4466468,4765,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.38187026999998,24.463623050000024
+555,556,BEVERLY HILLS PHARMACY L L C,صيدلية بيفرلي هيلز ذ.م.م.,(971)-2-2222494,hazy.k@beverlyhillsmedical.ae,(971)-2-4448485,41080,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.380930999999975,24.457042
+556,557,BOOTS DEERFIELDS PHARMACY,صيدلية بووتس ديرفيلدز,02-6120850,kayed.elsaadi@alshaya.com,4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.67126400000001,24.52422899999999
+557,558,BOOTS PHARMACY AL WAHDA CENTER,صيدلية بووتس الوحدة سنتر,02-6958243,Kayed.elsaadi@alshaya.com,4-4534083,1277,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.372758999999974,24.470135000000028
+558,559,BUDOOR PHARMACY - BRANCH 1,صيدلية بدور - فرع 1,(971)-3-7648002,pharmabudoor2@gmail.com,(971)-3-7648002,80204,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,55.63646699999998,24.191731000000004
+559,560,BURJEEL HOSPITAL PHARMACY L.L.C.,صيدلية مستشفى برجيل ذ.م.م,(971)-2-2222366,saad.lifeline@vpshealth.com,(971)-2-2222366,7400,Pharmacy,24 Hr Pharmacy,Private,Yes,,,,,,,54.38098144999998,24.479316709999978
+560,561,DANAT AL EMARAT HOSPITAL FOR WOMEN AND CHILDERN LLC IN-PATIENT PHARMACY,صيدلية مستشفى دانة الإمارات للنساء والأطفال ذ م م الداخلية,02-6149999,smsoleman@uems.ae,2-6510088,60991,Pharmacy,Inpatient Pharmacy,Private,Yes,,,,,,,54.501306,24.396649000000025
+561,562,DOCTOR SHERIF MATTAR PHARMACY L L C,صيدلية الدكتور شريف مطر ذ. م. م,(971)-2-5588815,sherif@drsmmc.ae,(971)-2-5588131,63293,Pharmacy,Outpatient Pharmacy,Private,No,,,,,,,54.49832500000002,24.410349999999994
